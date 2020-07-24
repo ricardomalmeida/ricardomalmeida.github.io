@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: fr-default
 ---
 
 
@@ -19,4 +19,4 @@ layout: default
 
 
 # Espace personnel
-espace pour exposer brièvement des projets, parler de moi et partager des expériences professionnelles.
+espace pour exposer brièvement des projets et partager des expériences professionnelles.
