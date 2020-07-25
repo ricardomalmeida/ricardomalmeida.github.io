@@ -1,5 +1,5 @@
 ---
-layout: fr-default
+layout: fr-base
 ---
 
 
@@ -18,3 +18,15 @@ layout: fr-default
 <!-- /.jumbotron -->
 
   <h1>Ceci ma première page personnelle !</h1>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

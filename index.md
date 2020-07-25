@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 ---
 
 
@@ -16,5 +16,22 @@ layout: default
   <!-- /.container -->
 </div>
 <!-- /.jumbotron -->
+<!--
+<h1>A minha primeira página !</h1>
+-->
 
-  <h1>A minha primeira página !</h1>
+# Espaço para o meu cartão de visita na net.
+##### Começado a 21 Julho 2020.
+1. index
+2. versões FR e EN
+3. footer
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+  

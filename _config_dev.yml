@@ -46,6 +46,6 @@ kramdown:
 #google_analytics: UA-173216209-1
 
 # Development Settings
-port: 5555
-host: 0.0.0.0
-safe: false
+#port: 5555
+#host: 0.0.0.0
+#safe: false

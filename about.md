@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base-semfooter
 ---
 
 <div class="container-fluid p-0">
@@ -13,7 +13,7 @@ layout: default
 				</div>
 				<hr class="my-0" />
 				<div class="card-body">
-					<h5 class="h6 card-title">Áreas Favoritas</h5>
+					<h5 class="h6 card-title"></h5>
 					<!-- 
 					<a href="#" class="badge badge-primary mr-1 my-1">Electrónica</a>
 					<a href="#" class="badge badge-primary mr-1 my-1">Informática</a>
@@ -23,10 +23,10 @@ layout: default
 				</div>
 				<hr class="my-0" />
 				<div class="card-body">
-					<h5 class="h6 card-title">Sobre mim</h5>
+					<h5 class="h6 card-title"></h5>
 					<ul class="list-unstyled mb-0">
 						<li class="mb-1"><span class="fa fa-home mr-1"></span> Português, nascido no Porto<a href="#"></a></li>
-						<li class="mb-1"><span class="ml-4"></span> a 21 Dezembro de 1966.<a href="#"></a></li>
+						<li class="mb-1"><span class="ml-4"></span> a 21 de Dezembro de 1966.<a href="#"></a></li>
 						<!--
 						<li class="mb-1"><span class="fa fa-home mr-1"></span> Natural  no Porto, Portugal <a href="#"></a></li>
 						<li class="mb-1"><span class="fas fa-home mr-1"></span> Trabalho<a href="#"></a></li>
@@ -38,7 +38,7 @@ layout: default
 				</div>
 				<hr class="my-0" />
 				<div class="card-body">
-					<h5 class="h6 card-title">Interesses / Hobbies</h5>
+					<h5 class="h6 card-title">Interesses & Hobbies</h5>
 					<ul class="list-unstyled mb-0">
 						<li class="mb-1"><span class="fas fa-plus mr-1"></span> Fotografia</li>
 						<li class="mb-1"><span class="fas fa-plus mr-1"></span> Culinária</li>
@@ -49,22 +49,17 @@ layout: default
 				<div class="card-body">
 					<h5 class="h6 card-title">Contacto</h5>
 					<ul class="list-unstyled mb-0">
-						<li class="mb-1"><span class="fas fa-envelope mr-1"></span>
-							<a href="mailto:ricardo.almeida.mail@gmail.com">ricardo.almeida.mail@gmail.com</a>
-						</li>
-						<li class="mb-1"><span class="fab fa-skype mr-1"></span>ricardo.almeida.1700</li>
+						<li class="mb-1"><span class="fas fa-envelope mr-1"></span><a href="mailto:ricardo.almeida.mail@gmail.com">ricardo.almeida.mail@gmail.com</a></li>
+						<li class="mb-1"><span class="fab fa-skype mr-1"></span><a href="skype:ricardo.almeida.1700?userinfo">ricardo.almeida.1700</a></li>
 					</ul>
 				</div>
 				<hr class="my-0" />
 				<div class="card-body">
 					<h5 class="h6 card-title">Na rede</h5>
 					<ul class="list-unstyled mb-0">
-						<li class="mb-1"><span class="fab fa-linkedin fa-fw mr-1"></span> <a href="#">LinkedIn</a></li>
-						<li class="mb-1"><span class="fab fa-twitter fa-fw mr-1"></span> <a href="#">Twitter</a></li>
-						<!--
-						<li class="mb-1"><span class="fab fa-facebook fa-fw mr-1"></span> <a href="#">Facebook</a></li>
-						<li class="mb-1"><span class="fab fa-instagram fa-fw mr-1"></span> <a href="#">Instagram</a></li>
-						-->
+						<li class="mb-1"><span class="fab fa-linkedin mr-1"></span><a href="https://www.linkedin.com/in/ricardo-almeida-0111b847/">Linkedin</a></li>
+						<li class="mb-1"><span class="fab fa-twitter mr-1"></span><a href="https://twitter.com/Ricmalmeida">Twitter</a></li>	
+						<li class="mb-1"><span class="fab fa-github mr-1"></span><a href="https://github.com/ricardomalmeida">github</a></li>
 					</ul>
 				</div>
 			</div>
@@ -89,6 +84,5 @@ layout: default
 			</div>
 		</div>
 	</div>
-
 </div>
 

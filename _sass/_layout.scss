@@ -1,0 +1,35 @@
+$main: #fffc31;
+$header: #929292;
+
+
+footer {
+
+   
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background: $header;
+    text-decoration: none;
+    color: $main;
+    
+
+}
+
+footer a:link {
+    color: white;
+  }
+  
+  /* visited link */
+  footer a:visited {
+    color: white;
+  }
+  
+  /* mouse over link */
+  footer a:hover {
+    color: black;
+  }
+  
+  /* selected link */
+  footer a:active {
+    color: yellow;
+  }
