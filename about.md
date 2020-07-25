@@ -7,13 +7,13 @@ layout: default
 		<div class="col-md-5 col-xl-3">
 			<div class="card ml-2 mb-3 ">			
 				<div class="card-body text-center my-3">
-					<img src="img/avatars/foto1.png" alt="Christina Mason" class="img-fluid rounded-circle mb-2" width="192" height="192" />
-					<h5 class="card-title mb-0">Ricardo Almeida</h5>
+					<img src="/img/avatars/foto1.png" alt="Ricardo Almeida" class="img-fluid rounded-circle mb-2" width="256" height="256" />
+					<h5 class="card-title mt-2 mb-0">Ricardo Almeida</h5>
 					<div class="text-muted mb-2">Técnico de Electrónica</div>
 				</div>
 				<hr class="my-0" />
 				<div class="card-body">
-					<h5 class="h6 card-title">Experência profissional</h5>
+					<h5 class="h6 card-title">Áreas Favoritas</h5>
 					<!-- 
 					<a href="#" class="badge badge-primary mr-1 my-1">Electrónica</a>
 					<a href="#" class="badge badge-primary mr-1 my-1">Informática</a>
@@ -40,11 +40,9 @@ layout: default
 				<div class="card-body">
 					<h5 class="h6 card-title">Interesses / Hobbies</h5>
 					<ul class="list-unstyled mb-0">
-						<li class="mb-1"><span class="fas fa-check mr-1"></span> Electrónica <a href="#"></a></li>
-						<li class="mb-1"><span class="fas fa-check mr-1"></span> Informática</li>
-						<li class="mb-1"><span class="fas fa-check mr-1"></span> Fotografia</li>
-						<li class="mb-1"><span class="fas fa-check mr-1"></span> Culinária</li>
-						<li class="mb-1"><span class="fas fa-check mr-1"></span> Viagens</li>
+						<li class="mb-1"><span class="fas fa-plus mr-1"></span> Fotografia</li>
+						<li class="mb-1"><span class="fas fa-plus mr-1"></span> Culinária</li>
+						<li class="mb-1"><span class="fas fa-plus mr-1"></span> Viagens</li>
 					</ul>
 				</div>
 				<hr class="my-0" />
@@ -54,17 +52,19 @@ layout: default
 						<li class="mb-1"><span class="fas fa-envelope mr-1"></span>
 							<a href="mailto:ricardo.almeida.mail@gmail.com">ricardo.almeida.mail@gmail.com</a>
 						</li>
-						<li class="mb-1"><span class="fas fa-check mr-1"></span> Skype</li>
+						<li class="mb-1"><span class="fab fa-skype mr-1"></span>ricardo.almeida.1700</li>
 					</ul>
 				</div>
 				<hr class="my-0" />
 				<div class="card-body">
 					<h5 class="h6 card-title">Na rede</h5>
 					<ul class="list-unstyled mb-0">
+						<li class="mb-1"><span class="fab fa-linkedin fa-fw mr-1"></span> <a href="#">LinkedIn</a></li>
 						<li class="mb-1"><span class="fab fa-twitter fa-fw mr-1"></span> <a href="#">Twitter</a></li>
+						<!--
 						<li class="mb-1"><span class="fab fa-facebook fa-fw mr-1"></span> <a href="#">Facebook</a></li>
 						<li class="mb-1"><span class="fab fa-instagram fa-fw mr-1"></span> <a href="#">Instagram</a></li>
-						<li class="mb-1"><span class="fab fa-linkedin fa-fw mr-1"></span> <a href="#">LinkedIn</a></li>
+						-->
 					</ul>
 				</div>
 			</div>

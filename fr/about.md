@@ -2,21 +2,93 @@
 layout: fr-default
 ---
 
+<div class="container-fluid p-0">
+	<div class="row mt-2 p-4">
+		<div class="col-md-5 col-xl-3">
+			<div class="card ml-2 mb-3 ">			
+				<div class="card-body text-center my-3">
+					<img src="/img/avatars/foto1.png" alt="Ricardo Almeida" class="img-fluid rounded-circle mb-2" width="256" height="256" />
+					<h5 class="card-title mt-2 mb-0">Ricardo Almeida</h5>
+					<div class="text-muted mb-2">Électronicien</div>
+				</div>
+				<!--
+				<hr class="my-0" />
+				<div class="card-body">
+					<h5 class="h6 card-title">Favorite Areas</h5>			 
+					<a href="#" class="badge badge-primary mr-1 my-1">Electrónica</a>
+					<a href="#" class="badge badge-primary mr-1 my-1">Informática</a>
+					<a href="#" class="badge badge-primary mr-1 my-1">3 - Sass</a>
+					<a href="#" class="badge badge-primary mr-1 my-1">4 - Angular</a>		
+				</div>
+					-->
+				<hr class="my-0" />
+				<div class="card-body">
+					<h5 class="h6 card-title">À propos de moi</h5>
+					<ul class="list-unstyled mb-0">
+						<li class="mb-1"><span class="fa fa-home mr-1"></span> Portugais, né à Porto<a href="#"></a></li>
+						<li class="mb-1"><span class="ml-4"></span> le 21 décembre 1966.<a href="#"></a></li>
+						<!--
+						<li class="mb-1"><span class="fa fa-home mr-1"></span> Natural  no Porto, Portugal <a href="#"></a></li>
+						<li class="mb-1"><span class="fas fa-home mr-1"></span> Trabalho<a href="#"></a></li>
+						<li class="mb-1"><span class="fas fa-suitcase mr-1"></span> <a href="#">Twitter</a></li>
+						<li class="mb-1"><span class="fas fa-suitcase mr-1"></span><a href="mailto:ricardo.almeida.mail@gmail.com">email</a></li>
+						<li class="mb-1"><span class="fas fa-envelope mr-1"></span><a href="mailto:ricardo.almeida.mail@gmail.com">ricardo.almeida.mail@gmail.com</a></li>
+						-->
+					</ul>
+				</div>
+				<hr class="my-0" />
+				<div class="card-body">
+					<h5 class="h6 card-title">Hobbies</h5>
+					<ul class="list-unstyled mb-0">
+						<li class="mb-1"><span class="fas fa-plus mr-1"></span> La Photo</li>
+						<li class="mb-1"><span class="fas fa-plus mr-1"></span> Cuisine</li>
+						<li class="mb-1"><span class="fas fa-plus mr-1"></span> Voyages</li>
+					</ul>
+				</div>
+				<hr class="my-0" />
+				<div class="card-body">
+					<h5 class="h6 card-title">Contact</h5>
+					<ul class="list-unstyled mb-0">
+						<li class="mb-1"><span class="fas fa-envelope mr-1"></span>
+							<a href="mailto:ricardo.almeida.mail@gmail.com">ricardo.almeida.mail@gmail.com</a>
+						</li>
+						<li class="mb-1"><span class="fab fa-skype mr-1"></span>ricardo.almeida.1700</li>
+					</ul>
+				</div>
+				<hr class="my-0" />
+				<div class="card-body">
+					<h5 class="h6 card-title">Reseau</h5>
+					<ul class="list-unstyled mb-0">
+						<li class="mb-1"><span class="fab fa-linkedin fa-fw mr-1"></span> <a href="#">LinkedIn</a></li>
+						<li class="mb-1"><span class="fab fa-twitter fa-fw mr-1"></span> <a href="#">Twitter</a></li>
+						<!--
+						<li class="mb-1"><span class="fab fa-facebook fa-fw mr-1"></span> <a href="#">Facebook</a></li>
+						<li class="mb-1"><span class="fab fa-instagram fa-fw mr-1"></span> <a href="#">Instagram</a></li>
+						-->
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-7 col-xl-9">
+			<div class="card">
+				<div class="card-header">
+					<h5 class="card-title mb-0">À propos de moi</h5>
+				</div>				
+				<div class="card-body">
+					<h3 class="card-title mb-0">Compétences</h3>
+					<hr />	
+					<p>Espace pour exposer un peu mon profil et partager mes expériences professionnelles.</p>
+					<hr />	
+				</div>
+				<!--
+				<div class="card-body">
+					<h4 class="card-title mb-0"><strong>2017 - presente</strong> Exemplo</h4>
+					<hr />	
+				</div>
+				-->
+			</div>
+		</div>
+	</div>
 
-<div class="jumbotron jumbotron-fluid">
-  <picture >
-    <source media="(min-width:800px)" >
-    <img src="/img/pcb2.jpg" alt="foto homepage" class="jumbotron__background">
-  </picture> 
-  <div class="container text-white">
-    <h1 class="display-4">Ricardo Almeida</h1>
-    <h1 class="display-5">À propos de moi</h1>    
-    <hr class="my-4">
-  </div>
-  <!-- /.container -->
 </div>
-<!-- /.jumbotron -->
 
-
-# Espace personnel
-espace pour exposer brièvement des projets et partager des expériences professionnelles.
