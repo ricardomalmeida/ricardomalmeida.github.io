@@ -2,34 +2,50 @@ $main: #fffc31;
 $header: #929292;
 
 
-footer {
-
-   
+footer { 
     position: relative;
     bottom: 0;
     width: 100%;
     background: $header;
     text-decoration: none;
-    color: $main;
-    
-
+    color: $main;  
 }
 
 footer a:link {
     color: white;
-  }
-  
-  /* visited link */
-  footer a:visited {
-    color: white;
-  }
-  
-  /* mouse over link */
-  footer a:hover {
+}
+
+/* visited link */
+footer a:visited {
+   color: white;
+}
+
+/* mouse over link */
+footer a:hover {
     color: black;
-  }
-  
-  /* selected link */
-  footer a:active {
+}
+
+/* selected link */
+footer a:active {
     color: yellow;
-  }
+}
+
+teste { 
+  /*position: relative;
+  bottom: 0;
+  width: 100%;*/
+  background: $header;
+  text-decoration: none;
+  color: red;  
+}
+
+teste a:link {
+  color: white;
+}
+
+
+teste p {
+  background-color:red;
+  color:blue;
+
+}

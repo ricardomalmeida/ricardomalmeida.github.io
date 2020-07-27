@@ -1,5 +1,6 @@
 ---
 layout: base
+title: Ricardo Almeida-Página Pessoal
 ---
 
 
