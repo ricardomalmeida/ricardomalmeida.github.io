@@ -6,16 +6,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # Site Settings
-title: Ricardo Almeida
-email: ricardo.almeida.mail@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Site pessoal. O meu CV, os projetos actuais, alguns posts onde poderei partilhar experiências.
-  Interessado em Electrónica e Informática.
+
 baseurl: "" 
 url: "http://localhost:4000"
 #url: "https://ricardomalmeida.github.io/"
 github_username:  ricardomalmeida
-twitter_username: Ricmalmeida
 
 # Build Settings
 sass:
@@ -24,26 +19,6 @@ sass:
 kramdown:
   input: GFM
 
-# Build settings
-#markdown: kramdown
-#theme: minima
-#plugins:
-#  - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Google Analytics
-#google_analytics: UA-173216209-1
 
 # Development Settings
 #port: 5555

@@ -7,7 +7,7 @@ layout: base-semfooter
 		<div class="col-md-5 col-xl-3">
 			<div class="card ml-2 mb-3 ">			
 				<div class="card-body text-center my-3">
-					<img src="/img/avatars/foto1.png" alt="Ricardo Almeida" class="img-fluid rounded-circle mb-2" width="256" height="256" />
+					<img src="/img/foto2.jpg" alt="Ricardo Almeida" class="img-fluid rounded-circle mb-2" width="256" height="256" />
 					<h5 class="card-title mt-2 mb-0">Ricardo Almeida</h5>
 					<div class="text-muted mb-2">Técnico de Electrónica</div>
 				</div>
@@ -72,7 +72,7 @@ layout: base-semfooter
 				<div class="card-body">
 					<h3 class="card-title mb-0">Experiência Profissional</h3>
 					<hr />	
-					<p>Espaço para expôr um pouco sobre mim e partilhar as minhas experiências profissionais.</p>
+					<p>Espaço para partilhar experiências profissionais e expôr um pouco sobre mim.</p>
 					<hr />	
 				</div>
 				<!--
