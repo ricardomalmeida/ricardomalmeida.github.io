@@ -20,13 +20,4 @@ layout: fr-base
   <h1>Ceci ma première page personnelle !</h1>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
