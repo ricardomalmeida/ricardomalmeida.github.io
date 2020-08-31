@@ -22,7 +22,7 @@ title: Ricardo Almeida-Página Pessoal
 -->
 
 # O meu cartão de visita na net.
- Editado a 31 de Agosto 2020
+ Editado a 31 de Agosto 2020.
+<br>
  Começado a 21 de Julho 2020.
-
 <br>
