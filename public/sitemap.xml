@@ -4,10 +4,14 @@
   <sitemap>
     <loc>http://localhost:1313/pt-pt/sitemap.xml</loc>
     
+      <lastmod>2026-03-07T15:33:15+00:00</lastmod>
+    
   </sitemap>
   
   <sitemap>
     <loc>http://localhost:1313/en/sitemap.xml</loc>
+    
+      <lastmod>2026-03-07T15:33:15+00:00</lastmod>
     
   </sitemap>
   

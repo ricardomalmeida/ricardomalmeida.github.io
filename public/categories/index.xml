@@ -6,6 +6,8 @@
     <description>Recent content in Categories on CV Ricardo Almeida</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
+    <managingEditor>youremail@example.com (Ricardo Almeida)</managingEditor>
+    <webMaster>youremail@example.com (Ricardo Almeida)</webMaster>
     <copyright>© 2026 Ricardo Almeida</copyright>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     

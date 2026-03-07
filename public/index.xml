@@ -6,8 +6,20 @@
     <description>Recent content on CV Ricardo Almeida</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-pt</language>
+    <managingEditor>youremail@example.com (Ricardo Almeida)</managingEditor>
+    <webMaster>youremail@example.com (Ricardo Almeida)</webMaster>
     <copyright>© 2026 Ricardo Almeida</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Mar 2026 15:33:15 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Primeiro Post</title>
+      <link>http://localhost:1313/posts/primeiro-post/</link>
+      <pubDate>Sat, 07 Mar 2026 15:33:15 +0000</pubDate>
+      <author>youremail@example.com (Ricardo Almeida)</author>
+      <guid>http://localhost:1313/posts/primeiro-post/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
