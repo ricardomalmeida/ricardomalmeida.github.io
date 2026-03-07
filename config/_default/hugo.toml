@@ -23,12 +23,6 @@ enableEmoji = false
 
 googleAnalytics = "G-G2216YX1P8"
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
-
-
-
 
 [pagination]
   pagerSize = 100
@@ -79,4 +73,11 @@ googleAnalytics = "G-G2216YX1P8"
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+
 
