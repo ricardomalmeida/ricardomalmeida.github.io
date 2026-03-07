@@ -20,6 +20,11 @@ buildFuture = false
 #enableEmoji = true
 enableEmoji = false
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+
 # googleAnalytics = "G-XXXXXXXXX"
 
 [pagination]
