@@ -20,12 +20,15 @@ buildFuture = false
 #enableEmoji = true
 enableEmoji = false
 
+
+googleAnalytics = "G-G2216YX1P8"
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
 
 
-googleAnalytics = "G-G2216YX1P8"
+
 
 [pagination]
   pagerSize = 100
