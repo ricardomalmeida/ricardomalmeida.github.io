@@ -1,11 +1,11 @@
 # -- Site Configuration --
-# Refer to the theme docs for more details about each of these parameters.
-# https://blowfish.page/docs/getting-started/
+baseURL = "https://ricardomalmeida.github.io/"
+# baseURL = "https://your_domain.com/"
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-# baseURL = "https://your_domain.com/"
-baseURL = "https://ricardomalmeida.github.io/"
-defaultContentLanguage = "en"
+
+#defaultContentLanguage = "en"
+defaultContentLanguage = "pt-pt"
 
 title = "CV Ricardo Almeida"
 

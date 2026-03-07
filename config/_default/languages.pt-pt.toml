@@ -1,26 +1,26 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
-weight = 2
+languageCode = "pt-pt"
+languageName = "Português"
+weight = 1
 title = "CV Ricardo Almeida"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "PT"
+  isoCode = "pt-pt"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "CV Ricardo Almeida"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
-   name = "Ricardo Almeida"
+  name = "Ricardo Almeida"
 #   email = "youremail@example.com"
 #   image = "img/blowfish_logo.png"
 #   imageQuality = 96
-   headline = "I'm only human"
-   bio = "A little bit about you"
+#   headline = "I'm only human"
+#   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
@@ -59,7 +59,7 @@ title = "CV Ricardo Almeida"
 #     { slack = "https://workspace.url/team/userid" },
 #     { snapchat = "https://snapchat.com/add/username" },
 #     { soundcloud = "https://soundcloud.com/username" },
-#     { spotify = "https://open.spotify.com/user/userid" },
+#     { spotify =Author "https://open.spotify.com/user/userid" },
 #     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
 #     { steam = "https://steamcommunity.com/profiles/userid" },
 #     { telegram = "https://t.me/username" },
