@@ -25,7 +25,7 @@ enableEmoji = false
     dir = ':cacheDir/images'
 
 
-# googleAnalytics = "G-XXXXXXXXX"
+googleAnalytics = "G-G2216YX1P8"
 
 [pagination]
   pagerSize = 100
