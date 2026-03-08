@@ -1,6 +1,6 @@
 +++
 date = '2026-03-08T13:13:23Z'
-draft = true
+draft = false
 title = 'Sobre'
 showAuthor = true
 showDate = false
