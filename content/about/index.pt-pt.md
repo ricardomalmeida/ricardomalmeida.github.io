@@ -12,5 +12,5 @@ showLikes = false
 showViews = false
 +++
 
-about page
+
 página about
