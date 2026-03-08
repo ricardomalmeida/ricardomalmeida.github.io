@@ -1,12 +1,12 @@
 disabled = false
-languageCode = "pt-pt"
-languageName = "Português (Portugal)"
-weight = 1
+languageCode = "fr"
+languageName = "Français"
+weight = 3
 title = "CV Ricardo Almeida"
 
 [params]
-  displayName = "Português (Portugal)"
-  isoCode = "pt-pt"
+  displayName = "Français"
+  isoCode = "fr"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "/img/author.jpg"
@@ -20,7 +20,7 @@ title = "CV Ricardo Almeida"
   image = "/img/author.jpg"
   imageQuality = 96
   headline = ""
-  bio = "Técnico"
+  bio = "Technicien"
   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

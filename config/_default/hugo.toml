@@ -20,7 +20,9 @@ buildFuture = false
 #enableEmoji = true
 enableEmoji = false
 
-# googleAnalytics = "G-XXXXXXXXX"
+
+googleAnalytics = "G-G2216YX1P8"
+
 
 [pagination]
   pagerSize = 100
@@ -71,4 +73,11 @@ enableEmoji = false
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+
 
