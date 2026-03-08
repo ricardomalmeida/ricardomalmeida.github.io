@@ -2,7 +2,7 @@
 date = '2026-03-08T13:13:23Z'
 draft = true
 title = 'Sobre'
-showAuthor = false
+showAuthor = true
 showDate = false
 layout = "background"
 showReadingTime = false
@@ -12,5 +12,8 @@ showLikes = false
 showViews = false
 +++
 
+# Sobre
 
-página about
+Através deste site e de uma forma diferenciada pretendo referir aptências e conhecimentos profissionais, através de 'posts' relatando experiências profissionais.
+
+Poderei em paralelo 'postar' outros artigos, sendo sempre sobre electrónica e/ou informática ou de alguma forma relacionada com a minha vivência profissional.

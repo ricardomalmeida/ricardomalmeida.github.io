@@ -5,6 +5,7 @@ title = 'Segundo post'
 +++
 
 Segundo post.
+
 Da mesma forma que o primeiro post se tornou a página about, provávelmente este post também será transformado noutra página que acompanhará a construção deste site.
 
 Para já e de uma forma concisa, este site usa o hugo com o tema bowlfish.
