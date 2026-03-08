@@ -1,9 +1,0 @@
-<div id="cusdis_thread"
-  data-host="https://cusdis.com"
-  data-app-id="b6398ef9-c31d-4bea-a559-46152e31fe4d"
-  data-page-id="{{ .Permalink }}"
-  data-page-url="{{ .Permalink }}"
-  data-page-title="{{ .Title }}"
-  data-theme="auto"
-  ></div>
-<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
