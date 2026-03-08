@@ -47,6 +47,10 @@
  pageRef = "categories"
   weight = 20
 
+[[main]]
+  name = "Sobre"
+ pageRef = "about"
+  weight = 5
 #[[main]]
 #  name = "Tags"
 #  pageRef = "tags"

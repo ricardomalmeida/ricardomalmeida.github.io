@@ -1,30 +1,32 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
-weight = 2
+languageCode = "fr"
+languageName = "Français"
+weight = 3
 title = "CV Ricardo Almeida"
 
 [params]
-  displayName = "English"
-  isoCode = "en"
+  displayName = "Français"
+  isoCode = "fr"
   rtl = false
   dateFormat = "2 January 2006"
-  #logo = "/img/CV-logo.png"
+  # logo = "/img/author.jpg"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "CV - Ricardo Almeida"
+  description = "CV Ricardo Almeida"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
-   name = "Ricardo Almeida"
-#   email = "youremail@example.com"
-   image = "/img/author.jpg"
-   imageQuality = 96
-   headline = ""
-   bio = "Technicien"
-#   links = [
+  name = "Ricardo Almeida"
+  email = "youremail@example.com"
+  image = "/img/author.jpg"
+  imageQuality = 96
+  headline = ""
+  bio = "Tecnicien"
+  links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
-#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+#     { linkedin = "https://linkedin.com/in/ricardo-almeida-0111b847" },
+#     { linkedin = "https://pt.linkedin.com/in/ricardo-almeida-0111b847/pt" },
+#{ amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
 #     { bluesky = "https://bsky.app/profile/username" },
@@ -45,7 +47,6 @@ title = "CV Ricardo Almeida"
 #     { keyoxide = "https://keyoxide.org/URI" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { matrix = "https://matrix.to/#/URI" },
 #     { medium = "https://medium.com/username" },
@@ -59,7 +60,7 @@ title = "CV Ricardo Almeida"
 #     { slack = "https://workspace.url/team/userid" },
 #     { snapchat = "https://snapchat.com/add/username" },
 #     { soundcloud = "https://soundcloud.com/username" },
-#     { spotify = "https://open.spotify.com/user/userid" },
+#     { spotify =Author "https://open.spotify.com/user/userid" },
 #     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
 #     { steam = "https://steamcommunity.com/profiles/userid" },
 #     { telegram = "https://t.me/username" },
@@ -73,4 +74,4 @@ title = "CV Ricardo Almeida"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#   ]
+   ]
