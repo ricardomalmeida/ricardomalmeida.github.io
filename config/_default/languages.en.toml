@@ -5,13 +5,13 @@ weight = 2
 title = "CV Ricardo Almeida"
 
 [params]
-  displayName = "English"
+  displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  #logo = "/img/CV-logo.png"
+  # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "CV - Ricardo Almeida"
+  # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
@@ -20,7 +20,7 @@ title = "CV Ricardo Almeida"
    image = "/img/author.jpg"
    imageQuality = 96
    headline = ""
-   bio = "Technician"
+   bio = "Technicien"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

@@ -137,14 +137,13 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   cardViewScreenWidth = false
 
 [firebase]
-  apiKey = "AIzaSyAE2QqbQzTc3sW3k0NeKk6A71q5tPRHxxE"
-  authDomain = "site-ricardomalmeida.firebaseapp.com"
-  projectId = "site-ricardomalmeida"
-  storageBucket = "site-ricardomalmeida.firebasestorage.app"
-  messagingSenderId = "689701785568"
-  appId = "1:689701785568:web:877cec227664e8bf1a2585"
-  measurementId = "G-1GC9KW7QKY"
-
+  # apiKey = "XXXXXX"
+  # authDomain = "XXXXXX"
+  # projectId = "XXXXXX"
+  # storageBucket = "XXXXXX"
+  # messagingSenderId = "XXXXXX"
+  # appId = "XXXXXX"
+  # measurementId = "XXXXXX"
 
 [fathomAnalytics]
   # site = "ABC12345"
@@ -169,7 +168,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # globalWidgetPosition = "right"
 
 [verification]
-   google = "G-G2216YX1P8"
+  # google = ""
   # bing = ""
   # pinterest = ""
   # yandex = ""

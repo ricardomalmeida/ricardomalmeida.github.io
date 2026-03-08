@@ -1,11 +1,11 @@
 disabled = false
 languageCode = "pt-pt"
-languageName = "Português (Portugal)"
+languageName = "Português"
 weight = 1
 title = "CV Ricardo Almeida"
 
 [params]
-  displayName = "Português (Portugal)"
+  displayName = "PT"
   isoCode = "pt-pt"
   rtl = false
   dateFormat = "2 January 2006"
