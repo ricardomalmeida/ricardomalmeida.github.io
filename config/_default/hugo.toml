@@ -75,9 +75,9 @@ googleAnalytics = "G-G2216YX1P8"
       weight = 10
 
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+#[caches]
+#  [caches.images]
+#    dir = ':cacheDir/images'
 
 
 
