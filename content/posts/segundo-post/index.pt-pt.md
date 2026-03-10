@@ -1,6 +1,6 @@
 +++
 date = '2026-03-07T15:33:15Z'
-draft = true
+draft = false
 title = 'Segundo post'
 showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
