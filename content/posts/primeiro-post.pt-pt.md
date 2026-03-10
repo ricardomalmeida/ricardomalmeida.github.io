@@ -2,6 +2,10 @@
 date = '2026-03-07T15:33:15Z'
 draft = false
 title = 'Primeiro Post'
+showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background
+  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
 +++
 
 

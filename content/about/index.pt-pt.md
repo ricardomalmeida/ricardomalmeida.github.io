@@ -10,6 +10,7 @@ showPagination = false
 showWordCount = false
 showLikes = false
 showViews = false
+
 +++
 
 # Sobre
