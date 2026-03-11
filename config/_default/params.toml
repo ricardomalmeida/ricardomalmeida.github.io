@@ -30,13 +30,10 @@ defaultFeaturedImage = "/img/feature-01.svg" # used as default for featured imag
 defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
 # imagePosition = "50% 50%"
-
 # highlightCurrentMenuArea = true
 # smartTOC = true
 # smartTOCHideUnfocusedChildren = true
-
 fingerprintAlgorithm = "sha512" # Valid values are "sha512" (default), "sha384", "sha256"
-
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
@@ -54,7 +51,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   layout = "profile" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = true
-  showRecentItems = 6
+  showRecentItems = 3
   showMoreLink = true
   showMoreLinkDest = "/posts/"
   cardView = true
