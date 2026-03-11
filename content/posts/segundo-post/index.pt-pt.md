@@ -8,12 +8,7 @@ showHero = true
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
 +++
 
-
-<p class="text-sm"><a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a></p>
-<p class="text-base">Texto padrão.</p>
-<p class="text-lg">Texto grande.</p>
-<p class="text-2xl font-bold">Texto muito grande e negrito.</p>
-
+# Montagem
 
 Segundo post.
 

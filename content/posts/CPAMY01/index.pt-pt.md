@@ -8,21 +8,16 @@ showHero = true
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
 showTableOfContents = true
 showZenMode = true
-
 series = [ "Missão Malásia" ]
 series_order = 1
-
 +++
 <!--
-
 -->
-
-
-# Missão Malásia - primeira parte
+# Missão Malásia - o início
 
 ## Aventura profissional na Malásia em fotografias comentadas
 
-"Mais do que uma experiência profissional foi uma aventura com uma enorme aprendizagem"
+<p class="text-lg">"Mais do que uma experiência profissional foi uma aventura com uma enorme aprendizagem"</p>
 
 > [!note]-Nota
 > Estas fotos foram tiradas em contexto laboral e algumas continham à data informação sensível  que não permitiam a sua divulgação ao abrigo de um contrato de confidencialidade.
@@ -40,12 +35,7 @@ Em final de janeiro de 2010 fui selecionado para em conjunto com um colega, o Si
 > [!abstract]link
  <a class="text-sm" href="https://caeonline.com/buy/crystal-growing-sawing-slicing/amat-applied-materials-hct-e500sd-b-5/293628102" target="_blank" rel="noopener">anúncio de HCT 500SDB5 usada para venda </a>
 
- 
-> [!abstract]link 
-<a class="text-sm" href="https://markets.financialcontent.com/stocks/news/read/8272212/applied_materials_delivers_major_advances_to_lower_solar_cell_cost_with_new_hct_maxedge_wire_saw#google_vignette" target="_blank" rel="noopener">AMAT anuncia o lançamento da MaxEdge a 16 março 2009</a>
-
- 
-O cliente da empresa, tinha começado a produzir na Malásia, e seria vantajoso e benéfico para todos, se a nossa empresa acompanhasse esta deslocalização para a Ásia.
+ O cliente da empresa, tinha começado a produzir na Malásia, e seria vantajoso e benéfico para todos, se a nossa empresa acompanhasse esta deslocalização para a Ásia.
 
 Numa pequena área adjacente às instalações do cliente, em plena [FIZ](https://en.wikipedia.org/wiki/Bayan_Lepas_Free_Industrial_Zone) (free industrial zone) de Penang, onde grandes empresas tecnológicas populavam por todo o lado, tínhamos como desafio implementar e arrancar com uma unidade de produção de quadros elétricos que iria alimentar diretamente a produção da máquina do cliente.
 

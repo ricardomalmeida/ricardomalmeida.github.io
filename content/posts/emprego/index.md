@@ -5,4 +5,7 @@ title = 'Primeiro Emprego'
 +++
 # Primeiro emprego
 
+* 1988-1989
+
+
 O meu primeiro emprego foi na Texas Instruments, nas guardeiras, Maia entre Janeiro de 1988 e fins de 1989

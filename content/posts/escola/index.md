@@ -1,9 +1,7 @@
 +++
 date = '2026-03-09T14:57:03Z'
-draft = false
+draft = true
 title = 'Formação Escolar'
 +++
 
 Escolinha !
-
-School time...
