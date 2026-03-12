@@ -27,7 +27,7 @@ series_order = 1
 
 Missão:
 
-Montar uma local de produção na Malásia capaz de produzir quadros elétricos com o mesmo rigor e qualidade do que aqueles produzidos na Suíça.
+Montar um local de produção na Malásia capaz de produzir quadros elétricos com o mesmo rigor e qualidade do que aqueles produzidos na Suíça.
 
 Em final de janeiro de 2010 fui selecionado para em conjunto com um colega, o Silvan Muller, desempenhar uma nova função: Partir para a Malásia onde, junto das instalações do nosso cliente iríamos montar e arrancar uma zona de produção capaz de produzir um quadro elétrico, o 500SDB6, com o mesmo rigor e qualidade do que aquele que era produzido na Suíça.
 
@@ -62,21 +62,25 @@ Eu iria assegurar o suporte técnico e a garantia ao cliente sobre os quadros pr
 Tudo era novo e desafiante para todos. Para nós que partíamos para a Malásia e também para a empresa com esta expansão e toda a gestão e logística de uma primeira filial no estrangeiro.
 
 
-mapa com class
-
-
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d380899.0015056684!2d100.02839757738248!3d5.389355721729015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304a9403095390dd%3A0x29c305a5f38f633f!2sPenang%2C%20Mal%C3%A1sia!5e0!3m2!1spt-PT!2spt!4v1773150020330!5m2!1spt-PT!2spt" class="grid-w80 md:grid-w80 xl:grid-w80" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+ ### MaxEdge
 
-quadros elétricos Maxedge
-
-força e comando
+Nas fotos podemos ver os quadros elétricos da máquina 500SDB6 ou Maxedge.
+Do lado esquerdo o quadro elétrico da parte de comando, e do lado direito o quadro elétrico da parte da força.
 
 {{< gallery >}}
   <img src="/images/storyboard_CPAMY_html_9f31fee2.jpg" caption="quadro de comando" class="grid-w50 md:grid-w50 xl:grid-w50" />
   <img src="/images/storyboard_CPAMY_html_86e67682.jpg" caption="quadro de força" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
+Na fotografia abaixo podemos ver a MaxEdge em fase de montagem (produção do lado do cliente), onde se podem ver os quadros elétricos já instalados.
+
+{{< figure
+    src="/images/storyboard_CPAMY_html_6128ea6.jpg"
+    alt="Alt"
+    caption="Foto"
+    >}}
 
 ### Jan / Fev 2010 – Preparação
 
@@ -164,9 +168,6 @@ Todo o material, ferramenta, software e afins para realizar os testes aos quadro
 ![](/images/storyboard_CPAMY_html_672970f1.jpg)  
 
 \- O kit da creform para construir o mobiliário.
-
-
-{{< figure src="IMG_8943.JPG" title="" >}}
 
 #### creform
 
@@ -264,7 +265,6 @@ No PC, e na cabeça tinha os diversos spots onde os armários se iriam mover dur
 Em cada área, uma operação específica, material separado e suficiente para completar e terminar a operação, e em cada área a ferramenta e funcionalidades necessárias para levar a bom termo o termino da operação.
 
 Para cada operação instruções de montagem para executar a operação
-
 
 
 ![](/images/storyboard_CPAMY_html_32895bea.jpg)  

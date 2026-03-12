@@ -11,51 +11,31 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "À propos"
+ pageRef = "about"
+  weight = 5
+
+[[main]]
   name = "Blog"
   pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "À propos"
- pageRef = "about"
-  weight = 5
-
-#[[main]]
-#  name = "Parent"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
-
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
-
-[[main]]
-  name = "Categories"
-  pageRef = "categories"
+  name = "Sujets"
   weight = 20
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
+  name = "CV fichier"
+  parent = "Sujets"
+  pre = "edit"
+  pageRef = "/"
+  weight = 20
+
+[[main]]
+  name = "chronologie"
+  parent = "Sujets"
+  pageRef = "timeline/index.fr.md"
+  weight = 20
 
 
 # -- Footer Menu --
