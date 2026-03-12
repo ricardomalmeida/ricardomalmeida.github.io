@@ -21,68 +21,21 @@
   weight = 20
 
 [[main]]
-  name = "file topics"
-  parent = "Tópicos"
-  pageRef = "topics"
-  weight = 20
-
-[[main]]
   name = "CV"
   parent = "Tópicos"
   pageRef = "samples"
   weight = 20
 
-#[[main]]
-#  name = "CV ficheiro"
-#  parent = "Tópicos"
-#  pre = "edit"
-#  pageRef = "/"
-#  weight = 20
-
 [[main]]
   name = "timeline"
-  parent = "Topics"
+  parent = "Tópicos"
   pageRef = "timeline/index.pt-pt.md"
   weight = 20
-
-#[[main]]
-#  name = "Parent"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
-
-#[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
-#  weight = 10
-
-#[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
-#  weight = 20
-
-
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
 
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
-
 
 # [[footer]]
 #   name = "Tags"
