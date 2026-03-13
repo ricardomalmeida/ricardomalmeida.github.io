@@ -43,11 +43,10 @@ Numa pequena área adjacente às instalações do cliente, em plena [FIZ](https:
 
 <img src="IMG_1172.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
 
-Na Malásia estaria fisicamente o local de produção, toda a máquina suporte, incluindo a logística, o stock e as compras seria gerida na Suíça.
+Na Malásia estaria o futuro local de produção. Toda a máquina suporte, incluindo a logística, o stock e as compras seria gerida na Suíça.
 
-A empresa tinha um diretor local, residente em Penang, que nos auxiliaria à chegada e na nossa instalação em Penang.
 
-O Silvan como chefe de operações e meu chefe direto ocupar-se-ia da gestão com a suíça e com o cliente e, dos RH e procedimentos administrativos locais. Eu seria o responsável pela produção.
+O Silvan como chefe de operações e meu chefe direto ocupar-se-ia da gestão com a suíça e com o cliente, dos RH e procedimentos administrativos locais. Eu seria o responsável pela produção.
 
 Teria de:
 
@@ -178,177 +177,124 @@ Chegávamos ao fim do mês. De repente, num aparente ápice, estávamos ali há 
 Em abril, a equipa iria crescer e teríamos os primeiros colaboradores connosco, ambos por intermédio do nosso diretor local. Uma secretária administrativa para o office e um ajudante para a área de produção.
 
 
-Tudo pronto para no próximo dia, o novo funcionário começar a executar a operação inicial do processo, que incluía a retirada de portas e laterais dos armários rittal.
+Tudo pronto para no próximo dia iniciar a formação ao novo funcionário ao começar a executar a operação inicial do processo de produção , que incluía a retirada de portas e laterais dos armários rittal.
 
-<img src="/images/storyboard_CPAMY_html_36a2a02.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
+<img src="storyboard_CPAMY_html_36a2a02.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
 
 ### Abril 2010 - Começa a produção
 
-![](/images/storyboard_CPAMY_html_fffccfd5.jpg)
 
-Começamos a poder delegar a parte administrativa, e derrubou-se a barreira da linguagem, porque em março apercebemo-nos da real dificuldade e necessidade de ser preciso saber ler e falar malaio, para resolver qualquer assunto, ou obter algum documento, junto do poder local.
+Chegava ajuda com a parte administrativa e com a barreira da linguagem local.
+Na produção começava a ambientação ao nosso ambiente laboral e o contato com o material, com as ferramentas e com o manual de montagem.
 
-O anúncio para envio de CV´s e entrevistas de trabalho já estava na forja.
 
-![](/images/storyboard_CPAMY_html_96d50fc2.jpg)
+{{< gallery >}}
+  <img src="storyboard_CPAMY_html_fffccfd5.jpg" caption="quadro de comando" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_5f4a588e.jpg" caption="quadro de força" class="grid-w50 md:grid-w50 xl:grid-w50" />
+{{< /gallery >}}
 
-O Naven, nosso primeiro colaborador do production floor começa ambientar-se com o material, com as ferramentas e com o manual de montagem da primeira operação.
+O anúncio para envio de CV´s e entrevistas de trabalho 
+
+<img src="Adver.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 40%;"/>
 
 Era o arranque previsto.
-![](/images/storyboard_CPAMY_html_5f4a588e.jpg)
-
-
-Começa o ciclo zero da produção . Começa a montagem!
-
-![](/images/storyboard_CPAMY_html_8911f9f3.jpg)
+Começava o ciclo zero da produção . Começava a montagem!
 
 
 Pela noite continuava-se a cortar tubos e a criar a estrutura necessária para a próxima operação.
 
 Começávamos a montar carrinhos de material e a organizar o stock.
 
-![](/images/storyboard_CPAMY_html_7b8b9251.jpg)
+{{< gallery >}}
+  <img src="storyboard_CPAMY_html_1c344b7a.jpg" caption="quadro de comando" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_b2340d38.jpg" caption="quadro de força" class="grid-w50 md:grid-w50 xl:grid-w50" />
+{{< /gallery >}}
 
 A produção continua com as áreas a começarem a ter uma forma com sentido e a permitir uma movimentação lógica e planeada.
 
-No PC, e na cabeça tinha os diversos spots onde os armários se iriam mover durante as diversas operações, criando as respetivas diferentes áreas de produção.
-
-Em cada área, uma operação específica, material separado e suficiente para completar e terminar a operação, e em cada área a ferramenta e funcionalidades necessárias para levar a bom termo o termino da operação.
-
-Para cada operação instruções de montagem para executar a operação
-
-![](/images/storyboard_CPAMY_html_32895bea.jpg)  
+{{< gallery >}}
+  <img src="storyboard_CPAMY_html_7b8b9251.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="CPAMY_html_32895bea.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+{{< /gallery >}}
 
 
-Nova área para outro passo, outra operação de montagem.
+Em cada área, uma operação específica, material separado e suficiente para completar e terminar a operação, e em cada área a ferramenta, instruções de montagem e funcionalidades necessárias para levar a bom termo o termino da operação.
 
-![](/images/storyboard_CPAMY_html_15cd6557.jpg)
-
-Começa a ver-se nascer.
-
-![](/images/storyboard_CPAMY_html_1c344b7a.jpg)
-
-O stock no dia 01 e dia 13 respetivamente
-
-![](/images/storyboard_CPAMY_html_b2340d38.jpg)
+<img src="storyboard_CPAMY_html_15cd6557.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
 
 
-Fim do dia de trabalho, e seguia a exploração do creform.
 
-Ao fundo a passagem para o nosso cliente, com tudo apagado.
+Ao fundo a passagem para o nosso cliente, com tudo apagado. Fim do dia de trabalho. Nós seguiamos com a exploração do creform e surgia a nossa primeira bancada de trabalho.
 
-![](/images/storyboard_CPAMY_html_b83831a.jpg)
-
-![](/images/storyboard_CPAMY_html_5b000493.jpg)
-
-A primeira mesa/bancada de trabalho em creform
-
-![](/images/storyboard_CPAMY_html_c904575f.jpg)
-
-Aproximava-se o final do mês. Tínhamos filtrado CV´s e continuávamos a fazer entrevistas de trabalho.
-
-Em Maio iríamos ter reforços.
+{{< gallery >}}
+  <img src="storyboard_CPAMY_html_b83831a.jpg" caption="" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_5b000493.jpg" caption="" class="grid-w50 md:grid-w50 xl:grid-w50" />
+{{< /gallery >}}
 
 
-A organizar o layout para o próximo mês.
-
-### Maio 2010 – Treino e formação
-
-![](/images/storyboard_CPAMY_html_60ec0396.jpg)
+Aproximava-se o final do mês. Tínhamos filtrado CV´s e terminado as entrevistas de trabalho. Em Maio chegariam os novos funcionários.
 
 
-De uma forma simplista o production floor estava esboçado e pronto a receber a nova equipa de colaboradores:
+<img src="storyboard_CPAMY_html_60ec0396.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
 
-um grupo para a cablagem da placa de comando, e outro grupo para a montagem de chassis e placa de força.
 
-Arranque para o período experimental, antes do contrato de trabalho.
-
-Na zona do início da produção, onde os chassis eram despidos e as placas preparadas tinha os dois chassis do quadro de comando, praticamente prontos a receber a placa de comando, mas que permitiriam mostrar o início da produção e explicar o conceito e o método implementado.
-
-Foi o escolhido para explicar o que se pretendia deles e qual o trabalho que iriam efetuar e mostrar as ferramentas e utensílios que tínhamos para executar essas funções.
+De uma forma simplista tinha organizado a zona com a operação inicial parcialmente terminada permitindo mostrar o início da operação, explicar o conceito e exemplificar o método implementado na produção.
+Foi o cenário escolhido para explicar o que se pretendia aos novos colaboradores, qual o trabalho que iriam executar e mostrar as ferramentas e utensílios que teriam para efetuar essas funções.
 
 As duas placas de comando estavam com perfis e canais de cablagem, prontas a receber componentes.
-![](/images/storyboard_CPAMY_html_7ac4e427.jpg) 
+Noutra área na zona final de produção os dois quadros de força já semi-montados de forma a permitir ver o detalhe da montagem dos elementos e com alguns cabos já instalados como exemplo.
 
-Na mesa os primeiros componentes e a pasta com o esquema. Suficiente para a primeira formação destinada aos grupo dos cabladores. (automaticien).
-
-O kit de montagem que até então tinha sido utilizado para definir as áreas de produção e como modelos fotográficos para o manual de montagem iria agora ser utilizado como palco para a primeira formação básica.
-
-O sistema que tinha sido planeado iria passar por um teste há parte já implementada.
+{{< gallery >}}
+  <img src="storyboard_CPAMY_html_60ec0396.jpg" caption="" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_7ac4e427.jpg" caption="" class="grid-w50 md:grid-w50 xl:grid-w50" />
+{{< /gallery >}}
 
 Pronto a receber formandos!
 
-Noutra área na zona final de produção os dois quadros de força já semi-montados de forma a permitir ver o detalhe da montagem dos elementos e com alguns cabos já instalados como exemplo.
 
+### Maio 2010 – Treino e formação
 
-Iriam servir para uma primeira formação da montagem do quadro de força e como exemplo para a montagem das próximas unidades.
-
-A servirem de mesa temporária, os coffrets superiores que seriam montados noutra operação de montagem.
-
-
-dia 3 de maio, segunda-feira chegam os novos funcionários, e começa a formação e a ambientação ao local de trabalho. Os cabladores tomam o primeiro contacto com a placa a cablar.
+dia 3 de maio, segunda-feira chegam os novos funcionários, e começa a formação e a ambientação ao local de trabalho.
 
 {{< gallery >}}
   <img src="/images/storyboard_CPAMY_html_3023c8f9.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
   <img src="/images/storyboard_CPAMY_html_d44fec86.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-{{< /gallery >}}
-
-
-
-{{< gallery >}}
   <img src="/images/storyboard_CPAMY_html_663d7bf.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
   <img src="/images/storyboard_CPAMY_html_e2e76c75.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
  <img src="/images/storyboard_CPAMY_html_1256d6a6.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
   <img src="/images/storyboard_CPAMY_html_aeaedce5.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
+--------
 
-Chegava a primeira visita dos HQ .DaE, um chefe de projeto sénior chegava da Suíça para ver o nosso progresso e acompanhar os nossos planos para os próximos passos.
 
-O Eric ensinou-me muito. Muitos truques, muitas dicas, ótimas explicações. Foram duas semanas de formação contínua e muito planeamento.
+
+
+Chegava a primeira visita. Um chefe de projeto chegava da Suíça para ver o nosso progresso e acompanhar os nossos planos para os próximos passos.
+
+Foram duas semanas de formação contínua e muito planeamento.
 
 * Muito excel, roadmaps, listas de tarefas e prioridades para gerir o flow das várias operações e etapas da produção.
 
 * Registo da formação dada em regime laboral. Matrizes de competências. Gestão dos colaboradores.
 
-* Stock local. Gestão do stock. Lista de faltas de material. Material danificado ou defeituoso. Relatórios de nãLista de faltas de material. Material danificado ou defeituoso. Relatórios de não conformidade. Zona de Quarentena.
+* Stock local. Gestão do stock. Lista de faltas de material. Material danificado ou defeituoso. Relatórios de não conformidade. Zona de Quarentena.
 
-Gestão de avarias e acidentes durante a produção. Deteção de erros. A preparação para o “commissioning” e teste final da unidade produzida.
-
-
-
-Primeira semana com a nova equipa. Terminada a ambientação laboral, com as explicações e formação básica.
-
-* Ambiente de zona de trabalho
-
-* Ferramenta
-
-* Componentes da placa
-
-* Esquema elétrico
-
-![](/images/storyboard_CPAMY_html_d173232f.jpg)
-
-Fazer bem, mesmo devagar. A velocidade bem com o treino e com a experiência. O fazer bem é um “mind set” desde o início da produção.
-
-Qualidade e rigor!
-
-A preparar a área para receber o próximo envio de material.
-
-![](/images/storyboard_CPAMY_html_cc97d386.jpg)
+* Gestão de avarias e acidentes durante a produção. Deteção de erros. A organização do processo de teste final da unidade produzida.
 
 
+<img src="storyboard_CPAMY_html_d173232f.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
+
+
+------
+
+
+
+Chegava novo carregamento. Material para 4 máquinas, stock de cabos e outros materiais para a produção. Carga por todo o lado.
 
 {{< gallery >}}
    <img src="/images/storyboard_CPAMY_html_7dcb027a.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
    <img src="/images/storyboard_CPAMY_html_3c48feb3.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-{{< /gallery >}}
-
-Chega carregamento. O primeiro com material para 4 máquinas, stock de cabos e outros materiais para a produção.
-
-Carga por todo o lado. Tempo de testar a forma como se tinha planeado o stock.
-
-{{< gallery >}}
   <img src="/images/storyboard_CPAMY_html_ce103714.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
   <img src="/images/storyboard_CPAMY_html_548cb54e.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
   <img src="/images/storyboard_CPAMY_html_16188028.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
@@ -356,43 +302,26 @@ Carga por todo o lado. Tempo de testar a forma como se tinha planeado o stock.
 {{< /gallery >}}
 
 
-Tudo pronto, para depois do ciclo 0, dar início ao primeiro ciclo de produção.![](/images/storyboard_CPAMY_html_bc33d35a.jpg)
+Começava o ciclo de produção efetiva. Tempo de pôr à prova todo o planeamento e a forma como tinha sido implementado o processo de produção.
 
 
+<img src="storyboard_CPAMY_html_bc33d35a.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
 
-Tudo a postos para começar a produção !
 
-Tudo limpo e organizado para receber as próximas visitas.
+Tudo a postos para começar a produzir !
 
-O Patrão (CEO da empresa) mentor de todo o projeto vinha visitar-nos.
+Chegavam dois colegas da Suíça para ajudar na formação do processo de cablagem e montagem do quadro elétrico.
 
-Simultaneamente chegavam dois colegas da Suíça para ajudar durante 3 meses na formação e mostrarem pelo exemplo a montagem do quadro elétrico.
-
-Era uma forma de motivar os colaboradores, por estarem a receber formação dada por funcionários da empresa Suíça, o que era muito valorizado.
-
-Era uma forma de poder delegar um pouco da formação e libertar-me para ter tempos para as folhas excel e para a o planning de produção.
-
-Agora era altura em conjunto com o Silvan de prestarmos contas do trabalho executado e ouvir diretamente do patrão as diretrizes para os próximos meses.
-
-A produção começou de imediato com formação em simultâneo.
-
-Além do setup já instalado e testado,com zonas e operações definidas e documentadas, chegava a hora de implementar as operações restantes e começar a pensar na zona de testes.
 
 {{< gallery >}}
    <img src="/images/storyboard_CPAMY_html_1b3316ac.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
    <img src="/images/storyboard_CPAMY_html_f9a7db1.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
+Chegaram as t-shirts. Primeira reunião de grupo. Temos equipa.
 
-![](/images/storyboard_CPAMY_html_e3d6d382.jpg)
+<img src="storyboard_CPAMY_html_a7663214.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
 
-
-
-Chegaram as t-shirts.![](/images/storyboard_CPAMY_html_a7663214.jpg)
-
-Primeira reunião de grupo. Temos equipa. TeamWork pra cima.
-
-Final de Maio e aproximava-se o fim do meu visto de 90 dias. Tinha de sair e fui a Hong-kong numa primeira saída da Malásia e ausentando-me da produção.
 
 {{< gallery >}}
    <img src="/images/storyboard_CPAMY_html_678d5062.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
@@ -400,6 +329,8 @@ Final de Maio e aproximava-se o fim do meu visto de 90 dias. Tinha de sair e fui
 {{< /gallery >}}
 
 ### Junho 2010 - Unidade pronta!
+
+#### Unidade pronta!
 
 
 Commissioning / Teste da primeira máquina.
@@ -410,7 +341,7 @@ Commissioning / Teste da primeira máquina.
 {{< /gallery >}}
 
 
-### Unidade pronta!
+#### Unidade pronta!
 
 Dia 17/06/2010 tinamos a primeira unidade produzida, testada e pronta a entregar
 
@@ -426,9 +357,6 @@ O primeiro objetivo estava alcançado e acabávamos de provar que a produção e
 
 No final de junho tínhamos uma equipa de nove elementos formada em diversas operações.
 
-O Syamil tinha sido contratado como engenheiro para assumir o teste da produção.
-
-Depois de ter passado pela cablagem de uma força e um comando para ter um conhecimento do quadro e pormenores da sua cablagem e montagem começava agora a executar o teste aos quadros.
 
 ### Julho 2010 – Primeira assistência ao cliente
 
