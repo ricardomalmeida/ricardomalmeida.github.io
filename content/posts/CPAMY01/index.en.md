@@ -22,7 +22,7 @@ series_order = 1
 <p class="text-lg">"More than a professional experience, it was an adventure with immense learning"</p>
 
 > [!note]-Note
-> These photos were taken in a work context and some contained sensitive information at the time, which did not allow their disclosure under a confidentiality agreement.
+> These photos were taken in a work context and some contained sensitive information at the time, which did not allow their share under a non-disclosure agreement.
 Ten years later, and with the product off the market, I am sharing some photos for the first time to document my learning in this professional experience.
 
 ## Introduction

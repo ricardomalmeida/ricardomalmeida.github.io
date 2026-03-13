@@ -13,3 +13,6 @@ showHero = false
 ## Galeria de fotos de estruturas creform
 
 "... em construção... "
+
+
+{{< figure src="/images/IMG_8010.JPG" alt="" caption="" >}}

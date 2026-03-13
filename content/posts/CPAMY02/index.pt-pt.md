@@ -2,12 +2,15 @@
 date = '2026-03-08T20:13:02Z'
 draft = false
 title = "Missão Malásia - parte 2"
+description = "produção de quadros elétricos na Malásia"
+
 showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
 showTableOfContents = true
 showZenMode = true
+
 series = [ "Missão Malásia" ]
 series_order = 2
 +++

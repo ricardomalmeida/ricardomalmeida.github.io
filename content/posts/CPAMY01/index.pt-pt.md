@@ -2,6 +2,8 @@
 date = '2026-03-08T16:33:02Z'
 draft = false
 title = 'Missão Malásia - parte 1'
+description = "produção de quadros elétricos na Malásia"
+
 showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
@@ -10,6 +12,7 @@ showTableOfContents = true
 showZenMode = true
 series = [ "Missão Malásia" ]
 series_order = 1
+
 +++
 <!--
 -->
@@ -20,7 +23,7 @@ series_order = 1
 <p class="text-lg">"Mais do que uma experiência profissional foi uma aventura com uma enorme aprendizagem"</p>
 
 > [!note]-Nota
-> Estas fotos foram tiradas em contexto laboral e algumas continham à data informação sensível  que não permitiam a sua divulgação ao abrigo de um contrato de confidencialidade.
+> Estas fotos foram tiradas em contexto laboral e algumas continham à data informação sensível  que não permitiam a sua divulgação ao abrigo de um acordo de não-divulgação.
   Passado dez anos e o produto fora do mercado, partilho pela primeira vez algumas fotos para documentar a minha aprendizagem nesta experiência profissional
 
 ## Introdução
@@ -31,13 +34,14 @@ Montar um local de produção na Malásia capaz de produzir quadros elétricos c
 
 Em final de janeiro de 2010 fui selecionado para em conjunto com um colega, o Silvan Muller, desempenhar uma nova função: Partir para a Malásia onde, junto das instalações do nosso cliente iríamos montar e arrancar uma zona de produção capaz de produzir um quadro elétrico, o 500SDB6, com o mesmo rigor e qualidade do que aquele que era produzido na Suíça.
 
-
 > [!abstract]link
  <a class="text-sm" href="https://caeonline.com/buy/crystal-growing-sawing-slicing/amat-applied-materials-hct-e500sd-b-5/293628102" target="_blank" rel="noopener">anúncio de HCT 500SDB5 usada para venda </a>
 
  O cliente da empresa, tinha começado a produzir na Malásia, e seria vantajoso e benéfico para todos, se a nossa empresa acompanhasse esta deslocalização para a Ásia.
 
 Numa pequena área adjacente às instalações do cliente, em plena [FIZ](https://en.wikipedia.org/wiki/Bayan_Lepas_Free_Industrial_Zone) (free industrial zone) de Penang, onde grandes empresas tecnológicas populavam por todo o lado, tínhamos como desafio implementar e arrancar com uma unidade de produção de quadros elétricos que iria alimentar diretamente a produção da máquina do cliente.
+
+<img src="IMG_1172.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
 
 Na Malásia estaria fisicamente o local de produção, toda a máquina suporte, incluindo a logística, o stock e as compras seria gerida na Suíça.
 
@@ -61,10 +65,9 @@ Eu iria assegurar o suporte técnico e a garantia ao cliente sobre os quadros pr
 
 Tudo era novo e desafiante para todos. Para nós que partíamos para a Malásia e também para a empresa com esta expansão e toda a gestão e logística de uma primeira filial no estrangeiro.
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d380899.0015056684!2d100.02839757738248!3d5.389355721729015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304a9403095390dd%3A0x29c305a5f38f633f!2sPenang%2C%20Mal%C3%A1sia!5e0!3m2!1spt-PT!2spt!4v1773150020330!5m2!1spt-PT!2spt"  style="display: block; margin-left: auto; margin-right: auto; width: 80%;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d380899.0015056684!2d100.02839757738248!3d5.389355721729015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x304a9403095390dd%3A0x29c305a5f38f633f!2sPenang%2C%20Mal%C3%A1sia!5e0!3m2!1spt-PT!2spt!4v1773150020330!5m2!1spt-PT!2spt" class="grid-w80 md:grid-w80 xl:grid-w80" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
- ### MaxEdge
+ #### MaxEdge
 
 Nas fotos podemos ver os quadros elétricos da máquina 500SDB6 ou Maxedge.
 Do lado esquerdo o quadro elétrico da parte de comando, e do lado direito o quadro elétrico da parte da força.
@@ -76,8 +79,7 @@ Do lado esquerdo o quadro elétrico da parte de comando, e do lado direito o qua
 
 Na fotografia abaixo podemos ver a MaxEdge em fase de montagem (produção do lado do cliente), onde se podem ver os quadros elétricos já instalados.
 
-{{< figure
-    src="IMG_7806.JPG" alt="Alt" caption=""  >}}
+<img src="IMG_7806.JPG" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
 
 ### Jan / Fev 2010 – Preparação
 
@@ -86,7 +88,6 @@ A viagem para a Malásia estava marcada para início de março.
 O final de janeiro e o mês fevereiro foram ocupados com a elaboração de listas de material e listas de ferramentas e a processar tudo o que tinha de ser enviado para a Malásia.
 
 Como kit inicial para o arranque, iria ser enviado para a Malásia todo o material necessário e pronto para construir duas unidades Maxedge.
-
 A primeira encomenda de creform completava o nosso kit de arranque.
 
 Tivemos uma formação de creform, o material que seria usado para construir mobiliário de produção, junto do nosso cliente.
@@ -100,7 +101,6 @@ Ouvi pela primeira vez o conceito de LEAN, e entrei num mundo de kamban, kaizen,
 Sentir a produção como um conjunto de operações, tempos e cargas de operações.
 
 ### Março 2010 -Chegada à ilha
-
 
 {{< gallery >}}
   <img src="IMG_7442.JPG" class="grid-w50 md:grid-w50 xl:grid-w50" />
@@ -117,104 +117,72 @@ Havia encomendas locais a tratar como o mobiliário do escritório e serviços a
 
 Era preciso agilizar e resolver todo a documentação para desalfandegar o mais breve possível o nosso kit de arranque que tinha sido enviado.
 
-**19/03/2010**
-
-dia 19 chegou o mobiliário de escritório
-
-<!-- OU -->
-
 
 {{< gallery >}}
   <img src="IMG_7788.JPG" class="grid-w50 md:grid-w50 xl:grid-w50" />
   <img src="IMG_7785.JPG" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
-**24/03/2010**
+
+A minha primeira missão consistia em:
+
+* ensinar e treinar os colaboradores locais a fazerem a cablagem e a montar os quadros elétricos
+
+* criar um processo de produção com áreas e operações definidas
+
+* criar mobiliário de produção para as áreas definidas
 
 
-A minha primeira missão era :
+É desalfandegada a carga e chega finalment às instalações o **kit de montagem** **kick-off**
 
-\- ensinar e treinar os colaboradores locais a “cablar” e montar os quadros elétricos
-
-\- criar um processo de produção com áreas e operações definidas
-
-\- criar mobiliário de produção para as áreas definidas
-
-\-criar um dossier de montagem em inglês, adaptado à prdução local utilizando os novos dossiers que estavam a ser criados na Suíça
-
-Telefone fixo e tomadas RJ45. Estávamos com comunicações
-
-![](/images/storyboard_CPAMY_html_3426f257.jpg)
-
-É finalmente desalfandegada a carga chega às instalações o **kit de montagem** **kick-off**
-
-
-{{< figure src="IMG_7906.JPG" alt="Alt" caption="Foto" >}}
-
+<img src="IMG_7906.JPG" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
 
 As últimas duas semanas na Suíça foram sobretudo a rever listas, e garantir que tudo o que tinha sido planeado e incluído no chamado kit de startup montagem estava empacotado e pronto a seguir no avião.
 
 Incluía:
 
-\-Todos os componentes para produzir dois conjuntos da Maxedge. ( a máquina utilizava dois quadros independentes, um para a força e outro para o comando
+* Todos os componentes para produzir dois conjuntos da Maxedge
 
-\-Todo os cabos utilizados e todo o material de apoio à montagem, desde parafusos a abraçadeiras de fivela
+* Todo os cabos utilizados e todo o material de apoio à montagem, desde parafusos a abraçadeiras de fivela
 
-\-Toda a ferramenta para realizar todas as operações (x12 sendo para 8 funcionários e 4 spares)
+* Toda a ferramenta para realizar todas as operações (x12 sendo para 8 funcionários e 4 spares)
 
-Todo o material, ferramenta, software e afins para realizar os testes aos quadros produzidos e, garantir a reparação de eventuais avarias.
+* Todo o material, ferramenta, software e afins para realizar os testes aos quadros produzidos e, garantir a reparação de eventuais avarias
+
+* O kit da creform para construir o mobiliário
 
 
-{{< figure src="IMG_7939.JPG" alt="Alt" caption="" >}}
+{{< gallery >}}
+  <img src="IMG_7939.JPG" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="IMG_7942.JPG" class="grid-w50 md:grid-w50 xl:grid-w50" />
+{{< /gallery >}}
 
-\- O kit da creform para construir o mobiliário.
 
 #### creform
 
-{{< figure src="IMG_7942.JPG" alt="Alt" caption="" >}}
-
-O nosso cliente e vizinho tinha todo o mobiliário de produção construído com o sistema <a href="https://creform.com/index.html" target="_blank" rel="noopener">creform</a> e tinham uma vasta experiência com o creform. Em Fevereiro, o Silvan e eu tínhamos tido uma formação nas instalações do cliente em Neuenegg na Suiça, onde nos foi apresentado o sistema creform e mostrado as possibilidades. Tínhamos ficado com uma ideia do creform e com dezenas de ideias de projetos para a nossa produção. 
-
+O nosso cliente e vizinho tinha todo o mobiliário de produção construído com o sistema <a href="https://creform.com/index.html" target="_blank" rel="noopener">creform</a> e tinham uma vasta experiência com o creform. Em Fevereiro, o Silvan e eu tínhamos tido uma formação nas instalações do cliente em Neuenegg na Suiça, onde nos tinha sido apresentado o sistema creform e mostrado as possibilidades. Tínhamos ficado com uma ideia do sistema creform e com dezenas de ideias de projetos para a nossa área de produção. Agora começavamos a construir. 
 
 A primeira construção foi um simples carrinho para os contentores plásticos que iriam conter o material para as operações de montagem.
 
-**27/03/2010**??
+Ao final do dia e utilizando a serra do nosso vizinho cortávamos os tubos e iamos construindo estruturas para a produção.
 
-Fim do dia de trabalho, e usando a serra do vizinho começamos a cortar tubos.
+{{< gallery >}}
+  <img src="IMG_8010.JPG" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="IMG_8005.JPG" class="grid-w50 md:grid-w50 xl:grid-w50" />
+{{< /gallery >}}
 
-{{< figure src="IMG_8005.JPG" alt="" caption="" >}}
 
 Chegávamos ao fim do mês. De repente, num aparente ápice, estávamos ali há um mês.
 
-A burocracia inicial estava ultrapassada.
-
-Tínhamos o production floor por nossa conta, vazio e livre.
-
-Nas últimas duas semanas e ultrapassadas as primeiras necessidades administrativas e ultrapassadas as burocracias iniciais (havia sempre muita burocracia redundante, tudo com carimbos e assinaturas presenciais)
-
-O dia era passado a esmiuçar e agrupar o processo em operações de montagem, e ir criando os respetivos manuais de montagem.
-
-Fim da jornada de trabalho, e com a mesa de corte emprestada, atacava-se o corte de tubos creform para as estruturas a construir, e tiravam-se fotos para instruções de montagem
-
-### O manual de montagem
-
-Toda a produção na suíça era executada seguindo as instruções de trabalho que com fotografias detalhadas e listas iam passo a passo mostrando como efetuar a operação em curso.
-
-A mesma documentação sempre atualizada e, para todos, garantia que todos os quadros eram produzidos exatamente da mesma forma e qualidade independentemente da equipa e do local onde era montado. A documentação estava em francês e estava a ser terminada uma versão única bilingue.
-
-Para uma fase inicial da formação e do início da montagem do quadro, eu estava a criar algumas tabelas e checklists para preencher e criei instruções de trabalho para cada operação de trabalho (onde se referia o respetivo manual em francês).
 
 Em abril, a equipa iria crescer e teríamos os primeiros colaboradores connosco, ambos por intermédio do nosso diretor local. Uma secretária administrativa para o office e um ajudante para a área de produção.
 
-**31/03/2010**
 
-Tudo pronto para no próximo dia, o novo funcionário começar a executar a operação inicial do processo, que incluía a retirada de portas e laterais dos armários rittal e retirada da placa de montagem do interior.
+Tudo pronto para no próximo dia, o novo funcionário começar a executar a operação inicial do processo, que incluía a retirada de portas e laterais dos armários rittal.
 
-![](/images/storyboard_CPAMY_html_36a2a02.jpg)
+<img src="/images/storyboard_CPAMY_html_36a2a02.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
 
 ### Abril 2010 - Começa a produção
-
-**01/04/2010**
 
 ![](/images/storyboard_CPAMY_html_fffccfd5.jpg)
 
@@ -228,27 +196,17 @@ O Naven, nosso primeiro colaborador do production floor começa ambientar-se com
 
 Era o arranque previsto.
 ![](/images/storyboard_CPAMY_html_5f4a588e.jpg)
-No kit de montagem, tínhamos recebido todo o material necessário para produzir 2 unidades de quadros elétricos MaxEdge, cada um deles constituído por dois armários rittal de 1000mm de largura.
 
-Todos os componentes, mais cabos, parafusos, anilhas, etc, etc.
-
-O material tinha sido separado na Suíça para produzir duas unidades. Em vez de empurrar o material para a produção, embalaram-no e enviaram-no para a Malásia.
-
-Essas duas unidades serviriam para definir e implementar as diversas operações de montagem. Para ver e sentir, empurrar e mover fisicamente tudo o que ia sendo planeado e desenhado no portátil, e poder definir o flow de produção e desenhar as diferentes áreas.
-
-Serviriam também, para o registo fotográfico necessário à realização das diversas instruções de montagem, que iam também sendo criados ao mesmo tempo que se iam criando as áreas de produção.
 
 Começa o ciclo zero da produção . Começa a montagem!
 
 ![](/images/storyboard_CPAMY_html_8911f9f3.jpg)
 
-**08/04/2010**
 
 Pela noite continuava-se a cortar tubos e a criar a estrutura necessária para a próxima operação.
 
 Começávamos a montar carrinhos de material e a organizar o stock.
 
-**12/03/2010**
 ![](/images/storyboard_CPAMY_html_7b8b9251.jpg)
 
 A produção continua com as áreas a começarem a ter uma forma com sentido e a permitir uma movimentação lógica e planeada.
@@ -259,11 +217,8 @@ Em cada área, uma operação específica, material separado e suficiente para c
 
 Para cada operação instruções de montagem para executar a operação
 
-
 ![](/images/storyboard_CPAMY_html_32895bea.jpg)  
 
-
-**13/03/2010**
 
 Nova área para outro passo, outra operação de montagem.
 
@@ -277,7 +232,6 @@ O stock no dia 01 e dia 13 respetivamente
 
 ![](/images/storyboard_CPAMY_html_b2340d38.jpg)
 
-**21/04/2010**
 
 Fim do dia de trabalho, e seguia a exploração do creform.
 
@@ -295,7 +249,6 @@ Aproximava-se o final do mês. Tínhamos filtrado CV´s e continuávamos a fazer
 
 Em Maio iríamos ter reforços.
 
-**27/04/2010**
 
 A organizar o layout para o próximo mês.
 
@@ -303,7 +256,6 @@ A organizar o layout para o próximo mês.
 
 ![](/images/storyboard_CPAMY_html_60ec0396.jpg)
 
-**02/05/2010**
 
 De uma forma simplista o production floor estava esboçado e pronto a receber a nova equipa de colaboradores:
 
@@ -333,16 +285,15 @@ Iriam servir para uma primeira formação da montagem do quadro de força e como
 
 A servirem de mesa temporária, os coffrets superiores que seriam montados noutra operação de montagem.
 
-**03/05/2010**
 
-dia 03, segunda-feira chegam os novos funcionários, e começa a formação e a ambientação ao local de trabalho. Os cabladores tomam o primeiro contacto com a placa a cablar.
+dia 3 de maio, segunda-feira chegam os novos funcionários, e começa a formação e a ambientação ao local de trabalho. Os cabladores tomam o primeiro contacto com a placa a cablar.
 
 {{< gallery >}}
   <img src="/images/storyboard_CPAMY_html_3023c8f9.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
   <img src="/images/storyboard_CPAMY_html_d44fec86.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
-**05/05/2010**
+
 
 {{< gallery >}}
   <img src="/images/storyboard_CPAMY_html_663d7bf.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
@@ -356,35 +307,25 @@ Chegava a primeira visita dos HQ .DaE, um chefe de projeto sénior chegava da Su
 
 O Eric ensinou-me muito. Muitos truques, muitas dicas, ótimas explicações. Foram duas semanas de formação contínua e muito planeamento.
 
-\- Muito excel, roadmaps, listas de tarefas e prioridades para gerir o flow das várias operações e etapas da produção.
+* Muito excel, roadmaps, listas de tarefas e prioridades para gerir o flow das várias operações e etapas da produção.
 
-\- Registo da formação dada em regime laboral. Matrizes de competências. Gestão dos colaboradores.
+* Registo da formação dada em regime laboral. Matrizes de competências. Gestão dos colaboradores.
 
-\- Stock local. Gestão do stock. Lista de faltas de material. Material danificado ou defeituoso. Relatórios de nãLista de faltas de material. Material danificado ou defeituoso. Relatórios de não conformidade. Zona de Quarentena.
-
-Gestão de avarias e acidentes durante a produção. Deteção de erros. A preparação para o “commissioning” e teste final da unidade produzida.
-
-**07/05/2010**
-
-Primeira semana com a nova equipa. Terminada a ambientação laboral, com as explicações e formação básica.
-
-\-Ambiente de zona de trabalho
-
-\-Ferramentao conformidade. Zona de Quarentena.
+* Stock local. Gestão do stock. Lista de faltas de material. Material danificado ou defeituoso. Relatórios de nãLista de faltas de material. Material danificado ou defeituoso. Relatórios de não conformidade. Zona de Quarentena.
 
 Gestão de avarias e acidentes durante a produção. Deteção de erros. A preparação para o “commissioning” e teste final da unidade produzida.
 
-**07/05/2010**
+
 
 Primeira semana com a nova equipa. Terminada a ambientação laboral, com as explicações e formação básica.
 
-\-Ambiente de zona de trabalho
+* Ambiente de zona de trabalho
 
-\-Ferramenta
+* Ferramenta
 
-\-Componentes da placa
+* Componentes da placa
 
-\-Esquema elétrico
+* Esquema elétrico
 
 ![](/images/storyboard_CPAMY_html_d173232f.jpg)
 
@@ -396,14 +337,12 @@ A preparar a área para receber o próximo envio de material.
 
 ![](/images/storyboard_CPAMY_html_cc97d386.jpg)
 
-**10/05/2010**
 
 
 {{< gallery >}}
    <img src="/images/storyboard_CPAMY_html_7dcb027a.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
    <img src="/images/storyboard_CPAMY_html_3c48feb3.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
-
 
 Chega carregamento. O primeiro com material para 4 máquinas, stock de cabos e outros materiais para a produção.
 
@@ -419,7 +358,7 @@ Carga por todo o lado. Tempo de testar a forma como se tinha planeado o stock.
 
 Tudo pronto, para depois do ciclo 0, dar início ao primeiro ciclo de produção.![](/images/storyboard_CPAMY_html_bc33d35a.jpg)
 
-**15/05/2010**
+
 
 Tudo a postos para começar a produção !
 
@@ -447,7 +386,7 @@ Além do setup já instalado e testado,com zonas e operações definidas e docum
 
 ![](/images/storyboard_CPAMY_html_e3d6d382.jpg)
 
-**18/05/2010**
+
 
 Chegaram as t-shirts.![](/images/storyboard_CPAMY_html_a7663214.jpg)
 
@@ -455,16 +394,12 @@ Primeira reunião de grupo. Temos equipa. TeamWork pra cima.
 
 Final de Maio e aproximava-se o fim do meu visto de 90 dias. Tinha de sair e fui a Hong-kong numa primeira saída da Malásia e ausentando-me da produção.
 
-
 {{< gallery >}}
    <img src="/images/storyboard_CPAMY_html_678d5062.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
    <img src="/images/storyboard_CPAMY_html_383b452e.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
-
 ### Junho 2010 - Unidade pronta!
-
-**10/06/2010**
 
 
 Commissioning / Teste da primeira máquina.
@@ -475,19 +410,14 @@ Commissioning / Teste da primeira máquina.
 {{< /gallery >}}
 
 
-**17/06/2010**
+### Unidade pronta!
 
-Unidade pronta!
-
-Primeiro unidade produzida, testada e pronta a entregar
+Dia 17/06/2010 tinamos a primeira unidade produzida, testada e pronta a entregar
 
   <img src="IMG_8943.jpg" class="">
 
-
 O primeiro objetivo estava alcançado e acabávamos de provar que a produção era viável.
 
-
-**24/06/2010**
 
 {{< gallery >}}
   <img src="/images/storyboard_CPAMY_html_17624fc9.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
@@ -502,7 +432,6 @@ Depois de ter passado pela cablagem de uma força e um comando para ter um conhe
 
 ### Julho 2010 – Primeira assistência ao cliente
 
-**14/07/2010**
 
 Logo ao início da manhã, um driver de potência literalmente explodiu dentro do quadro de força quando foi colocado em carga durante o teste final da máquina pelo cliente.
 
@@ -533,7 +462,6 @@ A produção fluía dentro dos tempos, e o segundo objetivo era atingido em Julh
 Estava completa a missão. A estrutura estava montada e a funcionar e o mesmo se aplicava à produção.
 
 O Silvan tinha terminada a sua missão. Já tinha saído para gozar férias e agora retornaria em setembro para eu também sair e regressar à Europa, ter um merecido descanso em Portugal e passar pela empresa na suíça para apresentar relatório final da missão e preparar o futuro.
-
 
 
 Continua-se a criar mais e novas estruturas em creform
