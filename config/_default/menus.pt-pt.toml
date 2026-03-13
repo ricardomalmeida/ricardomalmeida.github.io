@@ -27,7 +27,7 @@
   weight = 20
 
 [[main]]
-  name = "timeline"
+  name = "Linha Temporal"
   parent = "Tópicos"
   pageRef = "timeline/index.pt-pt.md"
   weight = 20

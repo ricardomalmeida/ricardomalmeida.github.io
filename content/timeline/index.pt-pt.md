@@ -2,21 +2,17 @@
 date = '2026-03-11T21:16:17Z'
 draft = false
 title = "Linha temporal"
+
+showDate = false
+showReadingTime = false
+showWordCount = false
 +++
 
 ---
 
-# Linha temporal
-
----
-
-
 {{< timeline >}}
 
 {{< timelineItem icon="hashnode" header="Palcos" subheader="2022-2024" >}}
-<ul>
-  <li>Malásia</li>
-</ul>
 {{< /timelineItem >}}
 
 {{< timelineItem icon="hashnode" header="mytech" subheader="2013-2015" >}}
@@ -54,7 +50,7 @@ Primeiro emprego como técnico de electrónica na Texas Instruments, nas guardei
 Tratador-treinador de cães militares 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="hashnode" header="Formation scolaire" subheader="1985" >}}
+{{< timelineItem icon="hashnode" header="Formação escolar" subheader="1985" >}}
 11ºano na Escola Secundária Fontes Pereira de Melo
 {{< /timelineItem >}}
 

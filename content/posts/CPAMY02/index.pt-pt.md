@@ -109,14 +109,7 @@ Em fevereiro terminava a expansão com a remoção da parede interna.
   <img src="/images/storyboard_CPAMY_html_f7ba3eef.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
-
-{{< figure src="/images/storyboard_CPAMY_html_28b3f96c.jpg"  alt=""  caption="Photo html_28b3f96c"  >}}
-
-
 13/02 -A produção de MaxEge continua, e por trás a montagem do primeiro quadro B5.
-
-
-{{< figure src="/images/storyboard_CPAMY_html_f7ba3eef.jpg"  alt=""  caption="Photo html_f7ba3eef"  >}}
 
 Aqui cablagem de três placas de comando.
 As duas da esquerda são placas da MaxEdge e, a da direita é do segundo quadroB5.

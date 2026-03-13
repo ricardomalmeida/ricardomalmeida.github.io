@@ -2,11 +2,11 @@
 date = '2026-03-11T21:16:17Z'
 draft = false
 title = 'Chronologie'
+
+showDate = false
+showReadingTime = false
+showWordCount = false
 +++
-
----
-
-# # Chronologie
 
 ---
 
@@ -17,7 +17,7 @@ title = 'Chronologie'
 Tratador-treinador de cães militares 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="hashnode" header="Formação escolar" subheader="1985" >}}
+{{< timelineItem icon="hashnode" header="Formation scolaire" subheader="1985" >}}
 11ºano na Escola Secundária Fontes Pereira de Melo
 {{< /timelineItem >}}
 

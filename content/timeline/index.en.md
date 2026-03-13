@@ -2,11 +2,11 @@
 date = '2026-03-11T21:16:17Z'
 draft = false
 title = 'Timeline'
+
+showDate = false
+showReadingTime = false
+showWordCount = false
 +++
-
----
-
-# Timeline
 
 ---
 

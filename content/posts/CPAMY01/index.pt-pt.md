@@ -70,17 +70,14 @@ Nas fotos podemos ver os quadros elétricos da máquina 500SDB6 ou Maxedge.
 Do lado esquerdo o quadro elétrico da parte de comando, e do lado direito o quadro elétrico da parte da força.
 
 {{< gallery >}}
-  <img src="/images/storyboard_CPAMY_html_9f31fee2.jpg" caption="quadro de comando" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_86e67682.jpg" caption="quadro de força" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="IMG_8891.JPG" caption="quadro de comando" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="IMG_8882.JPG" caption="quadro de força" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
 Na fotografia abaixo podemos ver a MaxEdge em fase de montagem (produção do lado do cliente), onde se podem ver os quadros elétricos já instalados.
 
 {{< figure
-    src="/images/storyboard_CPAMY_html_6128ea6.jpg"
-    alt="Alt"
-    caption="Foto"
-    >}}
+    src="IMG_7806.JPG" alt="Alt" caption=""  >}}
 
 ### Jan / Fev 2010 – Preparação
 
@@ -129,7 +126,7 @@ dia 19 chegou o mobiliário de escritório
 
 {{< gallery >}}
   <img src="IMG_7788.JPG" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_48ade31d.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="IMG_7785.JPG" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
 **24/03/2010**
@@ -151,7 +148,9 @@ Telefone fixo e tomadas RJ45. Estávamos com comunicações
 
 É finalmente desalfandegada a carga chega às instalações o **kit de montagem** **kick-off**
 
-![](/images/storyboard_CPAMY_html_b1333a8b.jpg)
+
+{{< figure src="IMG_7906.JPG" alt="Alt" caption="Foto" >}}
+
 
 As últimas duas semanas na Suíça foram sobretudo a rever listas, e garantir que tudo o que tinha sido planeado e incluído no chamado kit de startup montagem estava empacotado e pronto a seguir no avião.
 
@@ -165,31 +164,25 @@ Incluía:
 
 Todo o material, ferramenta, software e afins para realizar os testes aos quadros produzidos e, garantir a reparação de eventuais avarias.
 
-![](/images/storyboard_CPAMY_html_672970f1.jpg)  
+
+{{< figure src="IMG_7939.JPG" alt="Alt" caption="" >}}
 
 \- O kit da creform para construir o mobiliário.
 
 #### creform
 
-![](/images/storyboard_CPAMY_html_2ffd7bed.jpg)
+{{< figure src="IMG_7942.JPG" alt="Alt" caption="" >}}
 
-O nosso cliente e vizinho tinha todo o mobiliário de produção construído com o sistema creform.
+O nosso cliente e vizinho tinha todo o mobiliário de produção construído com o sistema <a href="https://creform.com/index.html" target="_blank" rel="noopener">creform</a> e tinham uma vasta experiência com o creform. Em Fevereiro, o Silvan e eu tínhamos tido uma formação nas instalações do cliente em Neuenegg na Suiça, onde nos foi apresentado o sistema creform e mostrado as possibilidades. Tínhamos ficado com uma ideia do creform e com dezenas de ideias de projetos para a nossa produção. 
 
-E eram uns prós na matéria com uma vasta experiência.
-
-Tínhamos tido (O Silvan e eu) uma formação nas instalações do cliente na Suíça, onde nos foi apresentado o sistema creform e mostrado as possibilidades. Tínhamos ficado com uma ideia do creform e com dezenas de ideias de projetos para a nossa produção.
-
-Nota:
-
-[creform](https://creform.com/index.html)
-
-Formação na Stoppani
 
 A primeira construção foi um simples carrinho para os contentores plásticos que iriam conter o material para as operações de montagem.
 
 **27/03/2010**??
 
 Fim do dia de trabalho, e usando a serra do vizinho começamos a cortar tubos.
+
+{{< figure src="IMG_8005.JPG" alt="" caption="" >}}
 
 Chegávamos ao fim do mês. De repente, num aparente ápice, estávamos ali há um mês.
 
