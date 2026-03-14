@@ -71,10 +71,17 @@ Tudo era novo e desafiante para todos. Para nós que partíamos para a Malásia 
 Nas fotos podemos ver os quadros elétricos da máquina 500SDB6 ou Maxedge.
 Do lado esquerdo o quadro elétrico da parte de comando, e do lado direito o quadro elétrico da parte da força.
 
+
 {{< gallery >}}
   <img src="IMG_8891.JPG" caption="quadro de comando" class="grid-w50 md:grid-w50 xl:grid-w50" />
   <img src="IMG_8882.JPG" caption="quadro de força" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
+
+
+
+---
+
+
 
 Na fotografia abaixo podemos ver a MaxEdge em fase de montagem (produção do lado do cliente), onde se podem ver os quadros elétricos já instalados.
 
@@ -257,12 +264,12 @@ Pronto a receber formandos!
 dia 3 de maio, segunda-feira chegam os novos funcionários, e começa a formação e a ambientação ao local de trabalho.
 
 {{< gallery >}}
-  <img src="/images/storyboard_CPAMY_html_3023c8f9.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_d44fec86.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_663d7bf.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_e2e76c75.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
- <img src="/images/storyboard_CPAMY_html_1256d6a6.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_aeaedce5.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_3023c8f9.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_d44fec86.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_663d7bf.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_e2e76c75.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+ <img src="storyboard_CPAMY_html_1256d6a6.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_aeaedce5.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
 --------
@@ -293,12 +300,12 @@ Foram duas semanas de formação contínua e muito planeamento.
 Chegava novo carregamento. Material para 4 máquinas, stock de cabos e outros materiais para a produção. Carga por todo o lado.
 
 {{< gallery >}}
-   <img src="/images/storyboard_CPAMY_html_7dcb027a.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-   <img src="/images/storyboard_CPAMY_html_3c48feb3.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_ce103714.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_548cb54e.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_16188028.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_d0b3d536.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_7dcb027a.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_3c48feb3.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_ce103714.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_548cb54e.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_16188028.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_d0b3d536.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
 
@@ -310,34 +317,33 @@ Começava o ciclo de produção efetiva. Tempo de pôr à prova todo o planeamen
 
 Tudo a postos para começar a produzir !
 
+
+{{< gallery >}}
+   <img src="storyboard_CPAMY_html_1b3316ac.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+   <img src="storyboard_CPAMY_html_f9a7db1.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+{{< /gallery >}}
+
+
+
 Chegavam dois colegas da Suíça para ajudar na formação do processo de cablagem e montagem do quadro elétrico.
 
 
 {{< gallery >}}
-   <img src="/images/storyboard_CPAMY_html_1b3316ac.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-   <img src="/images/storyboard_CPAMY_html_f9a7db1.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+   <img src="storyboard_CPAMY_html_678d5062.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+   <img src="storyboard_CPAMY_html_383b452e.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
-Chegaram as t-shirts. Primeira reunião de grupo. Temos equipa.
-
-<img src="storyboard_CPAMY_html_a7663214.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
 
 
-{{< gallery >}}
-   <img src="/images/storyboard_CPAMY_html_678d5062.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-   <img src="/images/storyboard_CPAMY_html_383b452e.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-{{< /gallery >}}
 
 ### Junho 2010 - Unidade pronta!
-
-#### Unidade pronta!
 
 
 Commissioning / Teste da primeira máquina.
 
 {{< gallery >}}
-  <img src="/images/storyboard_CPAMY_html_3d59e10.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_6c9dd5c6.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_3d59e10.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_6c9dd5c6.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
 
@@ -351,35 +357,15 @@ O primeiro objetivo estava alcançado e acabávamos de provar que a produção e
 
 
 {{< gallery >}}
-  <img src="/images/storyboard_CPAMY_html_17624fc9.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_3dbdd111.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="IMG_8954.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="IMG_8953.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
 No final de junho tínhamos uma equipa de nove elementos formada em diversas operações.
 
 
-### Julho 2010 – Primeira assistência ao cliente
+Terminava a ajuda na formação e os dois colegas regressavam à empresa na suíça.
 
-
-Logo ao início da manhã, um driver de potência literalmente explodiu dentro do quadro de força quando foi colocado em carga durante o teste final da máquina pelo cliente.
-
-Eu tinha o privilégio de ter o apoio de uma numerosa equipa de engenharia na suíça que sempre ajudou a agilizar a resolução de problemas e a minimizar a distância física sempre que havia alterações de software ou firmware de componentes do quadro.
-
-Um problema que se mantinha era a zona de sombra provocada pela diferença de fuso horário, 6 horas para frente agora que estávamos no horário de verão. A partir das 7 da manhã a equipa suíça estava disponível, mas já eram 13h na Malásia.
-
-Uma avaria ao início da manhã deixava-me a enfrentar o problema sem o apoio da rede suíça.
-
-Os danos da avaria era bem visíveis e a substituição do elemento danificado era acessível e rápida de executar. Tínhamos na linha de montagem o driver para substituir, assim que o desafio era sobretudo na elaboração do relatório da intervenção inicial junto do cliente, com informações detalhadas e fotografias da zona afetada e no processo de seguimento da identificação da causa e origem do problema e na sua resolução.
-
-Ficha de reparação
-
-Reports
-
-8D
-
-NCR
-
-O Alex e o Martin regressam à suíça. Termina a formação suíça.
 
 ### Agosto 2010 – Missão completa
 
@@ -389,14 +375,16 @@ A produção fluía dentro dos tempos, e o segundo objetivo era atingido em Julh
 
 Estava completa a missão. A estrutura estava montada e a funcionar e o mesmo se aplicava à produção.
 
-O Silvan tinha terminada a sua missão. Já tinha saído para gozar férias e agora retornaria em setembro para eu também sair e regressar à Europa, ter um merecido descanso em Portugal e passar pela empresa na suíça para apresentar relatório final da missão e preparar o futuro.
+O Silvan tinha terminada a sua missão. Já tinha saído para gozar férias e agora retornaria para eu também sair e regressar à Europa, ter um merecido descanso em Portugal e passar pela empresa na suíça para apresentar relatório final da missão e preparar o futuro.
 
 
 Continua-se a criar mais e novas estruturas em creform
 
-![](/images/storyboard_CPAMY_html_a5680824.jpg)
 
 A produção continuava
 
-![](/images/storyboard_CPAMY_html_7d87fdcd.jpg)
 
+{{< gallery >}}
+  <img src="IMG_9239.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_7d87fdcd.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+{{< /gallery >}}

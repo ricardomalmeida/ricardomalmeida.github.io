@@ -34,3 +34,31 @@ Para uma fase inicial da formação e do início da montagem do quadro, eu estav
   <img src="IMG_8010.JPG" class="grid-w50 md:grid-w50 xl:grid-w50" />
   <img src="IMG_8005.JPG" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
+
+
+
+Chegaram as t-shirts. Primeira reunião de grupo. Temos equipa.
+
+<img src="storyboard_CPAMY_html_a7663214.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
+
+
+### Julho 2010 – Primeira assistência ao cliente
+
+
+Logo ao início da manhã, um driver de potência literalmente explodiu dentro do quadro de força quando foi colocado em carga durante o teste final da máquina pelo cliente.
+
+Eu tinha o privilégio de ter o apoio de uma numerosa equipa de engenharia na suíça que sempre ajudou a agilizar a resolução de problemas e a minimizar a distância física sempre que havia alterações de software ou firmware de componentes do quadro.
+
+Um problema que se mantinha era a zona de sombra provocada pela diferença de fuso horário, 6 horas para frente agora que estávamos no horário de verão. A partir das 7 da manhã a equipa suíça estava disponível, mas já eram 13h na Malásia.
+
+Uma avaria ao início da manhã deixava-me a enfrentar o problema sem o apoio da rede suíça.
+
+Os danos da avaria era bem visíveis e a substituição do elemento danificado era acessível e rápida de executar. Tínhamos na linha de montagem o driver para substituir, assim que o desafio era sobretudo na elaboração do relatório da intervenção inicial junto do cliente, com informações detalhadas e fotografias da zona afetada e no processo de seguimento da identificação da causa e origem do problema e na sua resolução.
+
+Ficha de reparação
+
+Reports
+
+8D
+
+NCR
