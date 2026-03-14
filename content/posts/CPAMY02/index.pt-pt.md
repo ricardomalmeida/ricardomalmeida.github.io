@@ -21,7 +21,7 @@ series_order = 2
 
 ## Missão a Solo
 
-Eu sempre acreditei e com tudo a correr pelo melhor desde maio que já era ponto assente que a aventura continuaria com mais uma missão, e muito do trabalho a partir daí foi já em preparação deste segundo passo.
+Com tudo a correr pelo melhor desde maio que já era ponto assente que a aventura continuaria com mais uma missão, e muito do trabalho a partir daí foi já em preparação deste segundo passo.
 Em Setembro terminadas as férias voltava à <a href="https://cpautomation.ch/en/" target="_blank" rel="noopener">CPA</a> na suíça para receber instruções e iniciar a segunda missão.
 
 A produção tinha sido validada pelo cliente final e tínhamos uma encomenda de 32 unidades de 500SDB6 -MaxEdge a produzir até ao fim do primeiro semestre de 2011.
@@ -72,7 +72,8 @@ Nesta segunda missão teria de preparar a nossa produção para começar a monta
 
 A produção de quadros para a MaxEdge continuava e estávamos com um stock que nos permitiria responder a um eventual aumento de produção e que me permitia focar na nova linha de produção para o quadro da B5.
 
-<img src="CPAMY_201.jpg" class="grid-w-100 md:grid-w75 xl:grid-w75" />
+<img src="CPAMY_201.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
+
 
 O primeiro desafio foi atravessar outra vez o caminho da burocracia da importação de componentes para um novo produto. Estávamos dentro da FIZ- Free Industrial Zone, que de uma forma simples nos colocava dentro da zona anexa à alfandega do aeroporto, e que nos permitia vender e “exportar” para outro cliente também dentro da FIZ sem sair da zona alfandegaria. O processo de autorização para a importação de componentes era complexo com listas de material classificadas por tipos e códigos de importação. Tinha assistido o Silvan em março de 2010 com o processo de importação para a B6. Agora era eu a organizar todo o processo.
 
@@ -82,9 +83,10 @@ Era necessário reforçar a equipa com novos colaboradores. Foi todo um novo pro
 
 Veio novamente uma equipa da suíça com dois cabladores para ajudar na formação. Era necessário reforçar a equipa com novos colaboradores.
 
- {{< figure src="CPAMY_204.jpg" title="" class="grid-w75 md:grid-w75 xl:grid-w75" >}}
  
-## 9/11 - Armário 500SDB5
+<img src="CPAMY_204.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
+
+## Armário elétrico 500SDB5
 
 Chegava o carregamento com material para produzir dois quadros elétricos B5.
 
@@ -96,8 +98,6 @@ Chegava o carregamento com material para produzir dois quadros elétricos B5.
 {{< /gallery >}}
 
 
-30/11/2010
-
 ### Obras expansão
 
 Conseguíamos mais alguns metros de produção e uma nova entrada com área para cacifos e vestiário.
@@ -107,62 +107,53 @@ Em fevereiro terminava a expansão com a remoção da parede interna.
 ## 2011
 ### Fevereiro 2011
 
+A produção de MaxEge continua, e por trás a montagem do primeiro quadro B5.
+
 {{< gallery >}}
-  <img src="/images/storyboard_CPAMY_html_28b3f96c.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_f7ba3eef.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_28b3f96c.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_f7ba3eef.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
-13/02 -A produção de MaxEge continua, e por trás a montagem do primeiro quadro B5.
 
-Aqui cablagem de três placas de comando.
-As duas da esquerda são placas da MaxEdge e, a da direita é do segundo quadroB5.
+Do lado direito a cablagem de três placas de comando.
+As duas da esquerda são placas da MaxEdge e, a da direita é da B5.
 Implementava-se a produção em paralelo.
 
 Tinha passado um ano na Malásia.
-
-![alt text](/images/storyboard_CPAMY_html_bfb02792.jpg)
-
 A CPA Technology completava o primeiro aniversário e a equipa tinha crescido.
 
 
 {{< gallery >}}
-  <img src="/images/storyboard_CPAMY_html_87d3a470.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_2af34be6.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_87d3a470.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_2af34be6.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
 
-05/04/2011
-segunda expansão, muda-se o office para a sala de reuniões que desaparece. Temos a área de produção maximizada.
+Segunda expansão, muda-se o office para a sala de reuniões que desaparece. Temos a área de produção maximizada.
 
 {{< gallery >}}
-  <img src="/images/storyboard_CPAMY_html_f0d4c3de.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_f465439d.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_f0d4c3de.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_f465439d.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
-05/04 armário montado na máquina
 
-{{< figure src="/images/storyboard_CPAMY_html_1449fb07.jpg"  alt=""  caption="armário montado na máquina" class="grid-w50 md:grid-w50 xl:grid-w50" >}}
-
-12/04
 
 {{< gallery >}}
-  <img src="/images/storyboard_CPAMY_html_37c572e8.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_2f536dcf.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_37c572e8.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_2f536dcf.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
 
-21/04- Produção em simultâneo de quadros diferentes.
+Produção em simultâneo de quadros diferentes.
 De um lado Maxedge, do outro lado B5.
 
-21/04
 
 {{< gallery >}}
-  <img src="/images/storyboard_CPAMY_html_6eba845d.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_7e616292.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_6eba845d.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_7e616292.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
 
-27/04/2011
 ### Formação SSQA AMAT Singapore
 
 #### Standardized Supplier Quality Assessment 
@@ -173,37 +164,36 @@ Tínhamos autorização para fornecer o quadro elétrico, mas teria de haver um 
 Em Abril fui a Singapura receber uma formação (SSQA - Standardized Supplier Quality Assessment) dada pela AMAT.
 Ficava também com a gestão da qualidade.
 
-### 06/05 company dinner
+### company dinner
 
 {{< gallery >}}
-  <img src="/images/storyboard_CPAMY_html_b0bc12b3.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
-  <img src="/images/storyboard_CPAMY_html_78d07e1.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_b0bc12b3.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="storyboard_CPAMY_html_78d07e1.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
 
-23/06/2011
 ## 32ª Máquina – Produção de MaxEdge completa
 
-A final de junho terminava a produção dos quadros elétricos para a MaxEdge, com a 32ª unidade.
+A final de junho terminava a produção dos quadros elétricos para a MaxEdge, com a 32ª unidade produzida a 23/06/2011.
 
-{{< figure src="/images/storyboard_CPAMY_html_e1e1b53e.jpg"  alt=""  caption="Photo CPAMY_201"  >}}
 
-{{< figure src="/images/storyboard_CPAMY_html_44d4f6c7.jpg"  alt=""  caption="32ª Máquina"  >}}
+<img src="storyboard_CPAMY_html_e1e1b53e.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
 
-25/06
+<img src="storyboard_CPAMY_html_44d4f6c7.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
 
 Fim da formação pelos técnicos suíços.
 Formação B5 concluída.
 Entrega da 32ª e última unidade MaxEdge.
 
-Objetivos superados e fim de missão para mim.
+Objetivos superados e fim de missão.
 
-{{< figure src="/images/storyboard_CPAMY_html_2af8f9a1.jpg"  alt=""  caption="Lunch"  >}}
 
+
+<img src="storyboard_CPAMY_html_2af8f9a1.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
 
 Iria em breve saber o resultado do meu SSQA que tinha consumido grande parte do meu tempo nos últimos dois meses.
 A produção de MaxEdges estava suspensa e o cliente convertia a sua área total para a produção de máquinas 500SDB5.
 Tempo de preparar a continuação.
 
-{{< figure src="/images/storyboard_CPAMY_html_e6220079.jpg"  alt=""  caption="Office"  >}}
 
+<img src="storyboard_CPAMY_html_e6220079.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>

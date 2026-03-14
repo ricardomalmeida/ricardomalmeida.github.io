@@ -378,10 +378,9 @@ Estava completa a missão. A estrutura estava montada e a funcionar e o mesmo se
 O Silvan tinha terminada a sua missão. Já tinha saído para gozar férias e agora retornaria para eu também sair e regressar à Europa, ter um merecido descanso em Portugal e passar pela empresa na suíça para apresentar relatório final da missão e preparar o futuro.
 
 
-Continua-se a criar mais e novas estruturas em creform
 
+A produção continuava e também continuavamos a criar mais e novas estruturas em creform
 
-A produção continuava
 
 
 {{< gallery >}}
