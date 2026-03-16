@@ -1,7 +1,7 @@
 +++
 date = '2026-03-07T15:33:15Z'
 draft = false
-title = 'Segundo post'
+title = "Montagem"
 showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
@@ -12,7 +12,7 @@ showHero = true
 
 Segundo post.
 
-Da mesma forma que o primeiro post se tornou a página about, este post também será transformado noutra página que acompanhará a construção deste site.
+Da mesma forma que o primeiro post se tornou a página about, este segundo post também será transformado noutra página que acompanhará a construção deste site.
 
 Para já e de uma forma concisa:
 

@@ -62,3 +62,20 @@ Reports
 8D
 
 NCR
+
+
+
+--------
+<lite-youtube 
+
+aq3YTurHOoY
+
+
+{{< youtubeLite id="SgXhGb-7QbU" label="Demo do Blowfish-tools" >}}
+
+{{< youtubeLite id="aq3YTurHOoY" label="stagebackoffice 001" >}}
+
+
+
+
+hugo server --bind 192.168.1.20 --baseURL http://192.168.1.20/

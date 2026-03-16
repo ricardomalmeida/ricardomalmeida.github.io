@@ -2,6 +2,8 @@
 date = '2026-03-09T10:12:02Z'
 draft = true
 title = "Missão Malásia - parte 3"
+description = "produção de quadros elétricos na Malásia"
+
 showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background
@@ -16,6 +18,10 @@ series_order = 3
 # Missão Malásia - terceira parte
 
 ## Operações
+
+A produção iria continuar com a montagem apenas do quadro elétrico para a B5.
+
+
 
 Deixava a produção.
 O Simon Chuard, engenheiro suíço, vinha como chefe de produção reforçar a equipa da Malásia.
