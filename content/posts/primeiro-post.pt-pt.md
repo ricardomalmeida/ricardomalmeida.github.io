@@ -1,6 +1,6 @@
 +++
 date = '2026-03-07T15:33:15Z'
-draft = false
+draft = true # passa a off substituido pelo about
 title = 'Primeiro Post'
 showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
