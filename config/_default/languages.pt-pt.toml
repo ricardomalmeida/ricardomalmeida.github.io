@@ -16,13 +16,13 @@ title = "CV Ricardo Almeida"
 
  [params.author]
   name = "Ricardo Almeida"
-  email = "youremail@example.com"
+  email = "ricardo.almeida.mail@gmail.com"
   image = "/img/author.jpg"
   imageQuality = 96
   headline = ""
   bio = "Técnico Eletrónica / Técnico Informática"
   links = [
-#     { email = "mailto:hello@your_domain.com" },
+     { email = "mailto:ricardo.almeida.mail@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },   
      { linkedin = "https://pt.linkedin.com/in/ricardo-almeida-0111b847/pt" }
 #     { codepen = "https://codepen.io/username" },

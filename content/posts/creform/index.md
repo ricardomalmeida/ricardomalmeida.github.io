@@ -15,6 +15,10 @@ showHero = true
 "... em construção... "
 
 
+[CV Ricardo Almeida PDF](/ricardo_almeida_cv.pdf)
+
+
+
 {{< figure src="/images/IMG_8010.JPG" alt="" caption="" >}}
 
 

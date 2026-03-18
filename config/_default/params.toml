@@ -93,7 +93,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 
   showZenMode = false
-  # externalLinkForceNewTab = false # disable to allow external links in the same tab (defaults to true)
+  
+  externalLinkForceNewTab = true # disable to allow external links in the same tab (defaults to true)
 
 [list]
   showHero = false

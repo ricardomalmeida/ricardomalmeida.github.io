@@ -21,9 +21,9 @@
   weight = 20
 
 [[main]]
-  name = "CV"
+  name = "CV pdf"
   parent = "Tópicos"
-  pageRef = "samples"
+  url = "/ricardo_almeida_cv.pdf"
   weight = 20
 
 [[main]]
