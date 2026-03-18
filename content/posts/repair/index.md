@@ -7,8 +7,12 @@ title = 'Eletrónica - Reparações'
 +++
 
 # Reparações 
-## videos youtube stagebackoffice
+## vídeos youtube stagebackoffice
 
+
+
+Em 2024 e com o projeto stagebackoffice realizei três vídeos para o <a href="https://www.youtube.com/@stagebackoffice" target="_blank" rel="noopener">canal youtube da stagebackoffice</a>. Foram reparações efetuadas na minha antiga oficina que entretanto terminou. Ficam aqui os vídeos.
+ 
 -----
 ## YAMAHA HC-2 parte 1
 

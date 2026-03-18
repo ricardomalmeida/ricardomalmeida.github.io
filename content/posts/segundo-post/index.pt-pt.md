@@ -16,7 +16,7 @@ Da mesma forma que o primeiro post se tornou a página about, este segundo post 
 
 Para já e de uma forma concisa:
 
-* Este site foi criado com o <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> e usa o tema <a href="https://blowfish.page/" target="_blank" rel="noopener">bowlfish</a>.
+* Este site foi criado com o <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> e usa o tema <a href="https://blowfish.page/" target="_blank" rel="noopener">blowfish</a>.
 
 Quero um sistema que me permita um flow simples e expedito e que me permita de uma forma simples criar os ficheiros.md dos posts em <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">vsc</a> e com o git fazer o update no <a href="https://github.com/" target="_blank" rel="noopener">github</a>.
 

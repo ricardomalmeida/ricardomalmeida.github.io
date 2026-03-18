@@ -79,3 +79,82 @@ aq3YTurHOoY
 
 
 hugo server --bind 192.168.1.20 --baseURL http://192.168.1.20/
+
+
+
+<p class="text-lg">"Mais do que uma experiência profissional foi uma aventura com uma enorme aprendizagem"</p>
+
+
+<a href="https://cpautomation.ch/en/" target="_blank" rel="noopener">CPA</a>
+
+
+
+
+
+First Article Inspection
+Inspeção ao primeiro artigo
+
+Havia uma unidade na Suíça que era o protótipo validado e seria ali na Malásia que se iria realizar toda a produçãoria produzida a primeira unidade.
+Teria de ser elaborado um relatório do processo ao cliente. Iríamos ter um FAI.
+
+
+{{< gallery >}}
+  <img src="/images/storyboard_CPAMY_html_388e954a.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="/images/storyboard_CPAMY_html_a2a59a14.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+{{< /gallery >}}
+
+
+Fevereiro 2012
+
+Desde a primeira missão que o gestor de qualidade na Suíça tinha ajudado imenso.
+Desde a ajuda inicial na elaboração de forms e reports como os NCR Nonformity report Relatório de Não conformidade até à ajuda ao implementar o sistema de documentação.
+Agora como gestor de qualidade local eu precisava ainda mais de ajuda.
+No planning do road map da qualidade da AMAT toda a ajuda e formação tinha e continuava a ser preciosa.
+
+Agora o relatório do FAI do quadro Sinamics era mais um desafio.
+A formação e o apoio continuava e aumentava o volume de “séances” por  skype.
+, como na elaboração de forms e reports do processo como por exemplo
+10/04 sinamics pronta.
+ FAI done !
+
+
+Dezembro 2011
+
+Mais creform
+Limpeza geral
+
+
+
+foto atual
+mytech
+
+
+
+março 2012
+montagem do quadro na máquina
+
+
+## Sunsetter Penang
+
+abril 2012
+
+### Visita do SMBA
+
+
+{{< gallery >}}
+  <img src="/images/storyboard_CPAMY_html_b5e43496.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="/images/storyboard_CPAMY_html_3d02c05b.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="/images/storyboard_CPAMY_html_91370f73.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="/images/storyboard_CPAMY_html_30cd29de.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="/images/storyboard_CPAMY_html_901cc291.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+  <img src="/images/storyboard_CPAMY_html_b0957302.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
+{{< /gallery >}}
+
+
+----
+
+
+Iria em breve saber o resultado do meu SSQA que tinha consumido grande parte do meu tempo nos últimos dois meses.
+
+
+

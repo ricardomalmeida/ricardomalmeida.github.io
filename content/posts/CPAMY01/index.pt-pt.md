@@ -14,13 +14,14 @@ series = [ "Missão Malásia" ]
 series_order = 1
 
 +++
-<!--
--->
+<!-- 0 -->
 # Missão Malásia - o início
 
 ## Aventura profissional na Malásia em fotografias comentadas
 
-<p class="text-lg">"Mais do que uma experiência profissional foi uma aventura com uma enorme aprendizagem"</p>
+{{< lead >}}
+"Mais do que uma experiência profissional foi uma aventura com uma enorme aprendizagem"
+{{< /lead >}}
 
 > [!note]-Nota
 > Estas fotos foram tiradas em contexto laboral e algumas continham à data informação sensível  que não permitiam a sua divulgação ao abrigo de um acordo de não-divulgação.

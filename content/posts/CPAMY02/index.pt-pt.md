@@ -53,9 +53,7 @@ revelou-se essencial no desenvolvimento de mobiliário, com a enorme versatilida
 
 
 ---
-> [!TIP]- Vou criar outro post só com fotos de estruturas creform
-{{< article link="/posts/creform/" showSummary=true compactSummary=true >}}
-{icon="star"}
+
 
 
 
@@ -97,15 +95,14 @@ Chegava o carregamento com material para produzir dois quadros elétricos B5.
   <img src="storyboard_CPAMY_html_8973805c.jpg" class="grid-w50 md:grid-w50 xl:grid-w50" />
 {{< /gallery >}}
 
+### Fevereiro 2011
 
-### Obras expansão
+* Obras expansão
 
 Conseguíamos mais alguns metros de produção e uma nova entrada com área para cacifos e vestiário.
 
 Em fevereiro terminava a expansão com a remoção da parede interna.
 
-## 2011
-### Fevereiro 2011
 
 A produção de MaxEge continua, e por trás a montagem do primeiro quadro B5.
 
@@ -119,6 +116,7 @@ Do lado direito a cablagem de três placas de comando.
 As duas da esquerda são placas da MaxEdge e, a da direita é da B5.
 Implementava-se a produção em paralelo.
 
+### Abril 2011
 Tinha passado um ano na Malásia.
 A CPA Technology completava o primeiro aniversário e a equipa tinha crescido.
 
@@ -160,9 +158,9 @@ De um lado Maxedge, do outro lado B5.
 
 No principio do ano, tinha recebido a primeira visita do cliente.
 Foram definidas áreas de intervenção e estabeleceu-se um roadmap a 6 e 12 meses.
-Tínhamos autorização para fornecer o quadro elétrico, mas teria de haver um responsável pela qualidade no local com formação dada pelo cliente.
+Tínhamos autorização para produzir e fornecer o quadro elétrico, mas teria de haver um responsável pela qualidade no local com formação dada pelo cliente.
 Em Abril fui a Singapura receber uma formação (SSQA - Standardized Supplier Quality Assessment) dada pela AMAT.
-Ficava também com a gestão da qualidade.
+Assumia também a gestão da qualidade.
 
 ### company dinner
 
@@ -188,10 +186,8 @@ Entrega da 32ª e última unidade MaxEdge.
 Objetivos superados e fim de missão.
 
 
-
 <img src="storyboard_CPAMY_html_2af8f9a1.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 75%;"/>
 
-Iria em breve saber o resultado do meu SSQA que tinha consumido grande parte do meu tempo nos últimos dois meses.
 A produção de MaxEdges estava suspensa e o cliente convertia a sua área total para a produção de máquinas 500SDB5.
 Tempo de preparar a continuação.
 
